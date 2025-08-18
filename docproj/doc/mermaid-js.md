@@ -1,4 +1,4 @@
-> Last updated August 3, 2025
+<!-- u250818 -->
 
 # APCP > Guidelines > Documentation > Mermaid.js
 
