@@ -2,6 +2,8 @@
 
 [[🏠︎](../README.md)]
 
+***
+
 <div align="center">
 
 # The APCP Documentation Project
@@ -19,5 +21,8 @@
 * [C# XML documentation](xml-csharp.md)
 * [Mermaid.js](mermaid-js.md)
 
+<br>
+
+***
 
 [[🏠︎](../README.md)]

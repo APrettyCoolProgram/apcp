@@ -18,12 +18,12 @@
 
 ### CONTENTS
 
-[Overview](#overview)
-[Colors](#colors)  
-[Fonts](#fonts)  
-[Links](#links)  
-[Nodes](#nodes)  
-[Shapes and workflows](#shapes-and-workflows)  
+* [Overview](#overview)
+* [Colors](#colors)
+* [Fonts](#fonts)
+* [Links](#links)
+* [Nodes](#nodes)
+* [Shapes and workflows](#shapes-and-workflows)
 
 # Overview
 
