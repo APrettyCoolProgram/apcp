@@ -6,25 +6,12 @@
     <img alt="Fallback image description" src=".github/img/logo/apcp-logo-light-768x768.png">
   </picture>
 
-# The APCP Documentation Project
-
 </div>
 
-About
+<br>
 
+***
 
+<br>
 
-# Development
-
-# Documentation
-
-* [XML Documentation (for C#)](./doc/xml-csharp.md)
-* [Mermaid.js](./doc/mermaid-js.md)
-
-# Project
-
-# Repository
-
-# Source code
-
-[[🏠︎](https://github.com/APrettyCoolProgram)]
+* The [APCP Documentation Project](/docproj/README.md)
