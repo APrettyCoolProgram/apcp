@@ -2,6 +2,9 @@
 
 [[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
 
+***
+
+
 <div align="center">
 
 # The APCP Documentation Project
@@ -12,7 +15,7 @@
     <img alt="Fallback image description" src="../../.github/logo/apcp-logo-light-256x256.png">
   </picture>
 
-# Mermaid.js
+## Mermaid.js
 
 </div>
 
@@ -615,3 +618,9 @@ flowchart LR
     %% Styles
     classDef default fill:#000, stroke:#FFF, stroke-width:1px
 ```
+
+<br>
+
+***
+
+[[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
