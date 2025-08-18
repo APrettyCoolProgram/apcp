@@ -14,7 +14,7 @@
     <img alt="Fallback image description" src="../../.github/img/logo/apcp-logo-light-256x256.png">
   </picture>
 
-# Documentation Guidelines
+## Documentation Guidelines
 
 </div>
 
