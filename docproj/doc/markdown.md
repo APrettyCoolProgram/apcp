@@ -265,9 +265,9 @@ Read the [Mermaid.js][1] or the [XML Documentation (for C#)][xmldoc] documents!
 
 **Light/dark mode images**  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/logo/apcp-logo-dark-256x256.png">
-  <source media="(prefers-color-scheme: light)" srcset="../../.github/img/logo/apcp-logo-light-256x256.png">
-  <img alt="Cannot determine light/dark mode" src="../../.github/logo/apcp-logo-light-256x256.png">
+  <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/img/logo/apcp-logo-dark-256x256.png">
+  <source media="(prefers-color-scheme: light)" srcset="../../.github/img/img/logo/apcp-logo-light-256x256.png">
+  <img alt="Cannot determine light/dark mode" src="../../.github/img/logo/apcp-logo-light-256x256.png">
 </picture>
 
 # Code blocks and escape characters
