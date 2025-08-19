@@ -65,8 +65,6 @@
 
 ## Code
 
-### Blockquotes
-
 ```markdown
 > Single line blockquote
 
@@ -84,20 +82,10 @@
 > * **Ephasize stuff**
 > <br>  
 > Even put a link to [The APCP Documentation Project](https://github.com/APrettyCoolProgram/apcp/blob/main/docproj/README.md)!
-```
-
-### Colors
-
-```markdown
-
 ```
 
 ## Output
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-
-### Blockquotes
-
 > Single line blockquote
 
 > Multiple line
@@ -114,11 +102,6 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 > * **Ephasize stuff**
 > <br>  
 > Even put a link to [The APCP Documentation Project](https://github.com/APrettyCoolProgram/apcp/blob/main/docproj/README.md)!
-
-### Colors
-
-
-
 
 # Paragraphs and line breaks
 
@@ -258,10 +241,16 @@ Read the [Mermaid.js][1] or the [XML Documentation (for C#)][xmldoc] documents!
 ![alt text](../../../apcp/.github/img/logo/apcp-logo-neon-128x128.png "Optional title")
 
 **A reference image**  
-
 ![alt text][apcp-logo]
 
 [apcp-logo]: ../../../apcp/.github/img/logo/apcp-logo-neon-128x128.png "Optional title"
+
+**Light/dark mode images**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/logo/apcp-logo-dark-256x256.png">
+  <source media="(prefers-color-scheme: light)" srcset="../../.github/img/logo/apcp-logo-light-256x256.png">
+  <img alt="Cannot determine light/dark mode" src="../../.github/logo/apcp-logo-light-256x256.png">
+</picture>
 ```
 
 ## Output
@@ -273,6 +262,13 @@ Read the [Mermaid.js][1] or the [XML Documentation (for C#)][xmldoc] documents!
 ![alt text][apcp-logo]  
 
 [apcp-logo]: ../../../apcp/.github/img/logo/apcp-logo-neon-128x128.png "Optional title"
+
+**Light/dark mode images**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/logo/apcp-logo-dark-256x256.png">
+  <source media="(prefers-color-scheme: light)" srcset="../../.github/img/logo/apcp-logo-light-256x256.png">
+  <img alt="Cannot determine light/dark mode" src="../../.github/logo/apcp-logo-light-256x256.png">
+</picture>
 
 # Code blocks and escape characters
 
