@@ -103,6 +103,22 @@
 > <br>  
 > Even put a link to [The APCP Documentation Project](https://github.com/APrettyCoolProgram/apcp/blob/main/docproj/README.md)!
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
 # Paragraphs and line breaks
 
 ## Code
@@ -193,6 +209,10 @@ And *~~you~~ **can*** <sub>com*bine*</sub> <sup><ins>all</ins> of</sup> <ins>the
       Trailing two spaces above
     * Blue  
       Allows for a description below
+3. ToDo
+    * [x] First thing
+    * [ ] Second thing
+    * [ ] Third thing
 
 # Links
 
@@ -364,24 +384,24 @@ Blank line before...
 ## Code
 
 ```markdown
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+Here is a simple footnote[^1].
 
-[^1]: This is the first footnote.
+A footnote can also have multiple lines[^2].
 
-[^bignote]: Here's one with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.         | *               | *               | *               |
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
 ```
 
 ## Output
 
-Here is a simple footnote[^1]
+Here is a simple footnote[^1].
 
-[^1]: This is the footnote text
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.  
+  This is a second line.
 
 
 <br>
