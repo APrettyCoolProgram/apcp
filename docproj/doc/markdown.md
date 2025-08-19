@@ -238,12 +238,12 @@ Read the [Mermaid.js][1] or the [XML Documentation (for C#)][xmldoc] documents!
 
 ```markdown
 **An image**  
-![alt text](../../../apcp/.github/img/logo/apcp-logo-neon-128x128.png "Optional title")
+![alt text](../../.github/img/logo/apcp-logo-neon-128x128.png "Optional title")
 
 **A reference image**  
 ![alt text][apcp-logo]
 
-[apcp-logo]: ../../../apcp/.github/img/logo/apcp-logo-neon-128x128.png "Optional title"
+[apcp-logo]: ../../.github/img/logo/apcp-logo-neon-128x128.png "Optional title"
 
 **Light/dark mode images**  
 <picture>
@@ -256,12 +256,12 @@ Read the [Mermaid.js][1] or the [XML Documentation (for C#)][xmldoc] documents!
 ## Output
 
 **An image**  
-![alt text](../../../apcp/.github/img/logo/apcp-logo-neon-128x128.png "Optional title")
+![alt text](../../.github/img/logo/apcp-logo-neon-128x128.png "Optional title")
 
 **A reference image**  
-![alt text][apcp-logo]  
+![alt text][apcp-logo]
 
-[apcp-logo]: ../../../apcp/.github/img/logo/apcp-logo-neon-128x128.png "Optional title"
+[apcp-logo]: ../../.github/img/logo/apcp-logo-neon-128x128.png "Optional title"
 
 **Light/dark mode images**  
 <picture>
