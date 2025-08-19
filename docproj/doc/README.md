@@ -8,7 +8,7 @@
 
 <br>
 
-> Choose one of the documents above, or click [here](../README.md) to return to the APCP Documentation Project
+### Choose one of the documents above, or click [here](../README.md) to return to the APCP Documentation Project
 
 </div>
 
