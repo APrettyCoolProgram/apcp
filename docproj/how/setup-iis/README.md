@@ -14,16 +14,9 @@
     <img alt="Fallback image description" src="../../../.github/logo/apcp-logo-light-256x256.png">
   </picture>
 
-## Setup Microsoft IIS for ASP applications
+## Installing Microsoft IIS for ASP applications
 
 </div>
-
-***
-
-### CONTENTS
-
-* [Installing IIS](#installing-iis)
-* [Setting up IIS](#setting-up-iis)
 
 ***
 
