@@ -18,10 +18,6 @@
 
 </div>
 
-***
-
-# Installing Microsoft IIS
-
 ```mermaid
 flowchart LR
   %% Content
