@@ -79,26 +79,19 @@ The following source code components should be commented:
 ```csharp
 /// <summary>What the class does.</summary>
 /// <remarks>Important information, or additional details, about this class.</remarks>
-
-You should point to existing documentation, if it exists:
-
-```csharp
-/// <seealso href= "https://github.com/spectrum-health-systems/Tingen-Documentation">Tingen documentation</seealso>
 ```
 
-If there is an external XML documentation file:
+There should be a callback to the [`ProjectInfo`](../proj/project-info.md) file:
 
 ```csharp
-/// <include file='XmlDoc/%Namespace%.%ClassName%_doc.xml' path='%Namespace%/Type[@name=Class]/%ClassName%/*'/>
+For more information about the <b>Tingen Web Service</b>, please see <see cref="ProjectInfo"/>.
 ```
 
 ### Class properties
 
 ```csharp
 /// <summary>What the property is for.</summary>
-/// <remarks>
-///     Important information, or additional details, about this property.
-/// </remarks>
+/// <remarks> Important information, or additional details, about this property.</remarks>
 /// <value> The default value of the property <value>
 ```
 
@@ -112,9 +105,7 @@ If there is an external XML documentation file:
 
 ```csharp
 /// <summary>What the method does.</summary>
-/// <remarks>
-///     Important information, or additional details, about this method.
-/// </remarks>
+/// <remarks>Important information, or additional details, about this method.</remarks>
 /// <param name="parameter">If the method has parameters.</param>
 /// <returns>If the method returns something.</returns>
 ```
@@ -132,7 +123,7 @@ External Class XML documentation should look like this:
 ```xml
 <!-- u241023 -->
 
-<!-- This is the external XML Documentation file for %Namespace%cs -->
+<!-- This is the external XML Documentation file for %Namespace%.Class.cs -->
 
 <%Namespace%>
 
