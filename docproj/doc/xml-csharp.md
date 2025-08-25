@@ -1,4 +1,4 @@
-<!-- u250818 -->
+<!-- u250825 -->
 
 [[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
 
@@ -56,7 +56,7 @@ The following XML documentation tags should **always** be in the source code, si
 - `<see>`
 - `<seealso>`
 
-The `<remarks>` tag **can be** in the source code, as long as they follow the [source code documentation structure](#source-code-documentation-structure):
+The `<remarks>` tag **can be** in the source code, as long as they follow the [source code documentation structure](#source-code-documentation-structure).
 
 ## External XML documentation
 
@@ -68,7 +68,9 @@ The following XML documentation tags are *generally* stored in external files, i
 - `<example>`
 - `<exception>`
 
-## What should be documented<!-- omit in toc -->
+The `<remarks>` tag **should be** in the source code if it is longer than a single line.
+
+## What should be documented
 
 The following source code components should be commented:
 
@@ -76,10 +78,7 @@ The following source code components should be commented:
 
 ```csharp
 /// <summary>What the class does.</summary>
-/// <remarks>
-///     Important information, or additional details, about this class.
-/// </remarks>
-```
+/// <remarks>Important information, or additional details, about this class.</remarks>
 
 You should point to existing documentation, if it exists:
 
@@ -659,5 +658,7 @@ This example of an XML documentation comment details the correct tag order:
 /// <returns>A boolean of true or false.</returns>
 /// <value>Default value is <c>false</c></value>
 ```
+
+<br>
 
 [[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
