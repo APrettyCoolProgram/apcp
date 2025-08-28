@@ -37,6 +37,7 @@ CONTENTS
   - [\<see\> tag](#see-tag)
   - [\<seealso\> tag](#seealso-tag)
   - [\<value\> tag](#value-tag)
+- [Callouts](#callouts)
 - [Complete XML documentation example](#complete-xml-documentation-example)
 
 # XML documentation guidelines
@@ -577,6 +578,63 @@ See <see cref="GetVersion()"/> to add doubles.
 
 <seealso href="link">Link Text</seealso>
  -->
+
+# Callouts
+
+```xml
+<para>
+    <note>
+        This example demonstrates the handling of a <c>note</c> element with no
+        defined type. It defaults to the "note" style.
+    </note>
+</para>
+<para>
+    <note type="tip">
+        A <c>tip> callout</c>.
+    </note>
+</para>
+<para>
+    <note type="tip" title="Custom title">
+        A <c>tip> callout</c> with a custom title.
+    </note>
+</para>
+<para>
+    <note type="caution">
+        A <c>caution</c> callout.
+    </note>
+</para>
+<para>
+    <note type="important">
+        An <c>important</c> callout.
+    </note>
+</para>
+<para>
+    <note type="security">
+        A <c>security</c> callout.
+    </note>
+</para>
+<para>
+    <note type="C#">
+        A <c>C#</c> callout.
+    </note>
+</para>
+<para>
+    <note type="implement">
+        For implementers.
+    </note>
+</para>
+<para>
+        <note type="caller">
+        For callers.
+        </note>
+</para>
+<para>
+    <note type="inherit">
+        For inheritors.
+    </note>
+</para>
+```
+
 
 # Complete XML documentation example
 
