@@ -34,8 +34,8 @@
 
 ## Mermaid example
 
-```text
 ```mermaid
+flowchart TB
     %% Components
     Start@{shape: sm-circ, label: "Start the workflow\n[sm-circ]"}
     ProcessOne@{shape: rounded, label: "Process One"}
@@ -48,7 +48,6 @@
     classDef R2_ stroke:#f9ebea,stroke-width:3px,fill:#CD6155,color:#f9ebea
     classDef P2_ stroke:#f5eef8,stroke-width:3px,fill:#af7ac5,color:#f5eef8
     classDef G8_ stroke:#145a32,stroke-width:3px,fill:#1d8348,color:#e9f7ef
-```
 ```
 
 ```mermaid
