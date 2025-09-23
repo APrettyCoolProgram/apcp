@@ -32,6 +32,41 @@
 
 [Mermaid.js](https://mermaid.js.org/) is a JavaScript-based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 
+## Mermaid example
+
+```text
+```mermaid
+    %% Components
+    Start@{shape: sm-circ, label: "Start the workflow\n[sm-circ]"}
+    ProcessOne@{shape: rounded, label: "Process One"}
+    ProcessTwo@{shape: rounded, label: "Process Two"}
+    ProcessThree@{shape: rounded, label: "Process Three"}
+    Stop@{shape: fr-circ, label: "Release"}
+    %% Layout
+    Start --> ProcessOne:::R2_ --> ProcessTwo:::P2_ --> ProcessThree:::G8_ --> Stop
+    %% Styles
+    classDef R2_ stroke:#f9ebea,stroke-width:3px,fill:#CD6155,color:#f9ebea
+    classDef P2_ stroke:#f5eef8,stroke-width:3px,fill:#af7ac5,color:#f5eef8
+    classDef G8_ stroke:#145a32,stroke-width:3px,fill:#1d8348,color:#e9f7ef
+```
+```
+
+```mermaid
+flowchart TB
+    %% Components
+    Start@{shape: sm-circ, label: "Start the workflow\n[sm-circ]"}
+    ProcessOne@{shape: rounded, label: "Process One"}
+    ProcessTwo@{shape: rounded, label: "Process Two"}
+    ProcessThree@{shape: rounded, label: "Process Three"}
+    Stop@{shape: fr-circ, label: "Release"}
+    %% Layout
+    Start --> ProcessOne:::R2_ --> ProcessTwo:::P2_ --> ProcessThree:::G8_ --> Stop
+    %% Styles
+    classDef R2_ stroke:#f9ebea,stroke-width:3px,fill:#CD6155,color:#f9ebea
+    classDef P2_ stroke:#f5eef8,stroke-width:3px,fill:#af7ac5,color:#f5eef8
+    classDef G8_ stroke:#145a32,stroke-width:3px,fill:#1d8348,color:#e9f7ef
+```
+
 # Colors
 
 ```mermaid
