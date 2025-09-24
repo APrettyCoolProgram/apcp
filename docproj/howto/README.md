@@ -21,7 +21,12 @@
 # How to
 
 * [Setup Microsoft IIS](./setup-iis/README.md)
-* [Setup Visual Studio 2022](./setup-vs2022/README.md)
+* Visual Studio 2022
+  * [Setup Visual Studio 2022](./setup-vs2022/README.md)
+  * [Customize Visual Studio 2022](./customize-vs2022/README.md)
+  * [Publishing](./publish/README.md)
+  * [Sandcastle Help File Builder](./shfb/README.md)
+
 
 ***
 

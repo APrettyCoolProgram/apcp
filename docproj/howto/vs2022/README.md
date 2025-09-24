@@ -1,7 +1,5 @@
 [[🏠︎](../README.md)] ❬ [How To](./README.md)
 
-
-
 # How-To > Visual Studio 2022
 
 * [Setup Visual Studio 2022](./setup-vs2022/README.md)
