@@ -1,16 +1,22 @@
-<!--
-    Last updated: 250317
--->
+<!-- u250924 -->
 
-> **This document was last updated** March 17, 2025 
+[[🏠︎](../README.md)] ❰ [How To](README.md)
 
 <div align="center">
 
-   <!--
-    This image was created by Midjourney using the following prompt:
-    "closeup of a highway sign with the words HOW TO SETUP VISUAL STUDIO 2022"
-   -->
-  ![logo](howto-logo.png)
+# The APCP Documentation Project
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../../../../.github/img/logo/apcp-logo-dark-128x128.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../../../.github/img/logo/apcp-logo-light-128x128.png">
+    <img alt="Fallback image description" src="../../../../.github/img/logo/apcp-logo-light-128x128.png">
+  </picture>
+
+  <h1>How To Setup Visual Studio 2022</h1>
+
+</div>
+
+> **This document was last updated** March 17, 2025
 
 </div>
 
@@ -210,3 +216,7 @@ Things to remember about this list:
 1. Go to `Tools > Options > Environment > Fonts and Colors`
 2. Choose `Guideline` from the *Display Items* list
 3. Pick a color you like!
+
+***
+
+[[🏠︎](../README.md)] ❰ [How To](README.md)
