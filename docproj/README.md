@@ -1,4 +1,4 @@
-<!-- u250818 -->
+<!-- u250924 -->
 
 <div align="center">
 
@@ -26,9 +26,14 @@ There will eventually be an about section here.
 
 # Documentation
 
-* [XML Documentation (for C#)](./doc/xml-csharp.md)
-* [Mermaid.js](./doc/mermaid-js.md)
-* [Markdown](./doc/markdown.md)
+* [Markdown](./documentation/markdown.md)
+* [Mermaid.js](./documentation/mermaid-js.md)
+* [XML Documentation (for C#)](./documentation/xml-csharp.md)
+
+# How-To
+
+* [Setup Microsoft IIS](./howto/setup-iis/README.md)
+* [Setup Visual Studio 2022](./howto/setup-vs2022/README.md)
 
 # Projects
 
