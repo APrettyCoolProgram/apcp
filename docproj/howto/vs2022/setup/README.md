@@ -12,7 +12,9 @@
     <img alt="Fallback image description" src="../../../../.github/img/logo/apcp-logo-light-128x128.png">
   </picture>
 
-  <h1>How To Setup Visual Studio 2022</h1>
+  <h2>How To Setup Visual Studio 2022</h2>
+
+> **This document was last updated** March 17, 2025
 
 </div>
 
