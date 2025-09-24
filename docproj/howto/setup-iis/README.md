@@ -1,6 +1,6 @@
 ﻿<!-- u250821 -->
 
-[[🏠︎](../../README.md)] ❬ [Documentation Guidelines](../README.md)
+[[🏠︎](../../README.md)] ❬ [How To](../README.md)
 
 ***
 
@@ -107,4 +107,4 @@ If the server does not reboot automatically, reboot manually.
 
 ***
 
-[[🏠︎](../../README.md)] ❬ [Documentation Guidelines](../README.md)
+[[🏠︎](../../README.md)] ❬ [How To](../README.md)
