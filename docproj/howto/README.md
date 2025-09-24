@@ -1,6 +1,6 @@
-[[🏠︎](../README.md)]
-
 <!-- u250924 -->
+
+[[🏠︎](../README.md)]
 
 <div align="center">
 
@@ -22,7 +22,6 @@
 
 * [Setup Microsoft IIS](./setup-iis/README.md)
 * [Setup Visual Studio 2022](./setup-vs2022/README.md)
-
 
 ***
 
