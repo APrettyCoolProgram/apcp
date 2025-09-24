@@ -20,22 +20,8 @@
 
 There will eventually be an about section here.
 
-# Development
-
-  * Nothing here yet.
-
-# Documentation
-
-* [Markdown](./documentation/markdown.md)
-* [Mermaid.js](./documentation/mermaid-js.md)
-* [XML Documentation (for C#)](./documentation/xml-csharp.md)
-
-# How-To
-
-
-# Projects
-
-
-# Repositories
-
-# Source code
+[Development](./development/README.md)  
+[Documentation](./documentation/README.md)  
+[How To](./howto/README.md)  
+[Projects](./project/README.md)  
+[Source code](./sourcecode/README.md)  
