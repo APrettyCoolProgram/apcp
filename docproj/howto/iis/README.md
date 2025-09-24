@@ -1,8 +1,4 @@
-
-
-
-
-
+<!-- u250924 -->
 
 [[🏠︎](../README.md)]
 
@@ -16,11 +12,22 @@
     <img alt="Fallback image description" src="../../.github/img/logo/apcp-logo-light-256x256.png">
   </picture>
 
-Development documentation
-
 </div>
 
-Nothing here yet.
+<br>
+
+***
+
+# How to
+
+* [Setup Microsoft IIS](./setup-iis/README.md)
+
+* Visual Studio 2022
+  * [Setup Visual Studio 2022](./vs2022/setup/README.md)
+  * [Customize Visual Studio 2022](./vs2022/customize/README.md)
+  * [Publishing](./publish/README.md)
+  * [Sandcastle Help File Builder](./shfb/README.md)
+
 
 ***
 

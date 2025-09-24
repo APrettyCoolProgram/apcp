@@ -7,18 +7,14 @@
 # The APCP Documentation Project
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/logo/apcp-logo-dark-256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../.github/img/logo/apcp-logo-light-256x256.png">
-    <img alt="Fallback image description" src="../../.github/img/logo/apcp-logo-light-256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/logo/apcp-logo-dark-128x128.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../.github/img/logo/apcp-logo-light-128x128.png">
+    <img alt="Fallback image description" src="../../.github/img/logo/apcp-logo-light-128x128.png">
   </picture>
 
+How To
+
 </div>
-
-<br>
-
-***
-
-# How to
 
 * [Setup Microsoft IIS](./setup-iis/README.md)
 
@@ -27,7 +23,6 @@
   * [Customize Visual Studio 2022](./vs2022/customize/README.md)
   * [Publishing](./publish/README.md)
   * [Sandcastle Help File Builder](./shfb/README.md)
-
 
 ***
 
