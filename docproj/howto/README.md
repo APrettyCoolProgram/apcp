@@ -12,7 +12,7 @@
     <img alt="Fallback image description" src="../../.github/img/logo/apcp-logo-light-128x128.png">
   </picture>
 
-How To
+  <h1>How To</h1>
 
 </div>
 
