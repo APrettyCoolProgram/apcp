@@ -32,8 +32,6 @@ There will eventually be an about section here.
 
 # How-To
 
-* [Setup Microsoft IIS](./howto/setup-iis/README.md)
-* [Setup Visual Studio 2022](./howto/setup-vs2022/README.md)
 
 # Projects
 
