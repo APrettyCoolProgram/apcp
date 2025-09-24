@@ -20,8 +20,8 @@
 
 # How to
 
-* [Setup Microsoft IIS](./howto/setup-iis/README.md)
-* [Setup Visual Studio 2022](./howto/setup-vs2022/README.md)
+* [Setup Microsoft IIS](./setup-iis/README.md)
+* [Setup Visual Studio 2022](./setup-vs2022/README.md)
 
 
 ***

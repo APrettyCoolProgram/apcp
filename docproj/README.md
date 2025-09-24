@@ -18,7 +18,7 @@
 
 # About
 
-There will eventually be an about section here.
+The A Pretty Cool Program Documentation Project contains guidelines and stuff for:
 
 [Development](./development/README.md)  
 [Documentation](./documentation/README.md)  
