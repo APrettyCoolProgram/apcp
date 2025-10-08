@@ -18,7 +18,7 @@
 
 ## Contents
 
-*[Visual Studio 2022 integration](./vs2022-integration/README.md)
+* [Visual Studio 2022 integration](./vs2022-integration/README.md)
 
 ***
 
