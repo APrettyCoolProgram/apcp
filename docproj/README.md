@@ -16,9 +16,36 @@
 
 ***
 
-# Microsoft Internet Information Services
+## Markdown
+
+* [Markdown syntax](./markdown/markdown-syntax.md)
+
+## Mermaid.js
+
+* [Mermaid.js syntax](./mermaid.js/mermaid-js-syntax.md)
+
+## Project guidelines
+
+* [ProjectInfo file](./project/project-info.md)
+* [Versioning](./project/versioning.md)
+
+## Repository guidelines
+
+
+
+## Sandcastle Help File Builder
+
+## Visual Studio
+
+## XML Documentation
+
+
+
+##  Microsoft Internet Information Services
 
 * [Setup IIS](./iis/iis-setup/README.md)
+
+
 
 
 [Development](./development/README.md)  
