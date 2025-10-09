@@ -16,11 +16,9 @@
 
 ***
 
-# About
+# Microsoft Internet Information Services
 
-The A Pretty Cool Program Documentation Project contains guidelines and stuff for:
-
-[Microsoft Internet Information Services](./iis/)
+* [Setup IIS](./iis/iis-setup/)
 
 
 [Development](./development/README.md)  
