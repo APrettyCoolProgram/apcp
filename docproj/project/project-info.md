@@ -1,4 +1,4 @@
-<!-- u250825 -->
+<!-- u251009 -->
 
 [[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
 
@@ -29,16 +29,19 @@ The XML documentation can either be in the source code, or in an external file.
 A C# project would have a `ProjectInfo.cs` file with the following content:
 
 ```csharp
-/* %ProjectName%
- * %ProjectDescription
- * %ProjectVersion%
- *
- * %RepositoryURL%
- * Copyright (c) %CopyrightHolder%. All rights reserved.
- * Licensed under the %LicenseName% license.
- */
+// =============================================================================
+// %ProjectName%
+// %ProjectDescription%
+// %ProjectURL%
+// Copyright (c) A Pretty Cool Program. All rights reserved.
+// Licensed under the Apache 2.0 license.
+// -----------------------------------------------------------------------------
+// Release YY.MM -OR- Version X.y.z
+// Build YYMMDD
+// =============================================================================
 
-// uYYMMDD
+// uYYMMDD_code
+// uYYMMDD_documentation
 
 namespace %Namespace%;
 
@@ -68,16 +71,19 @@ internal class ProjectInfo
 For example:
 
 ```csharp
-/* dvn
- * A command line utility for managing development environments.
- * v1.0.1 (b250802)
- *
- * https://github.com/APrettyCoolProgram/dvn
- * Copyright (c) A Pretty Cool Program. All rights reserved.
- * Licensed under the Apache 2.0 license.
- */
+// =============================================================================
+// dvn
+// A command line utility for managing development environments.
+// https://github.com/APrettyCoolProgram/dvn
+// Copyright (c) A Pretty Cool Program. All rights reserved.
+// Licensed under the Apache 2.0 license.
+// -----------------------------------------------------------------------------
+// Version 1.0.1
+// Build 250802
+// =============================================================================
 
-// u250810
+// u250802_code
+// u250802_documentation
 
 namespace dvn;
 
