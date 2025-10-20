@@ -41,7 +41,9 @@ To create the new project:
 1. Start Visual Studio
 2. Create a new `Sandcastle Help File Builder Project`
 3. Name the project `shfb-%Project-Name%` (example: `shfb-myproject`)
-4. The location should be `myproject-documentation/sandcastle/%Project-Name%`
+4. The location should be something along the lines of:  
+* `myproject-documentation/sandcastle/%Project-Name%` (for dedicated documentation projects)  
+* `myproject/shfb/shfb-%Project-Name%`  (for smaller projects)
 5. Click "Create"
 6. Close the project
 
