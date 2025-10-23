@@ -1,9 +1,8 @@
-<!-- u250818 -->
+<!-- u251022 -->
 
-[[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
+[[🏠︎](../README.md)]
 
 ***
-
 
 <div align="center">
 
@@ -425,4 +424,4 @@ A footnote can also have multiple lines[^2].
 
 ***
 
-[[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
+[[🏠︎](../README.md)]
