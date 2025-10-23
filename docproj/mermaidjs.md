@@ -12,7 +12,7 @@
     <img alt="Fallback image description" src="../.github/logo/apcp-logo-light-128x128.png">
   </picture>
 
-# Markdown
+# Mermaid.js
 
 </div>
 
@@ -33,6 +33,7 @@
 
 ## Mermaid example
 
+### Code
 ```
 flowchart TB
     %% Components
@@ -49,6 +50,7 @@ flowchart TB
     classDef G8_ stroke:#145a32,stroke-width:3px,fill:#1d8348,color:#e9f7ef
 ```
 
+### Output
 ```mermaid
 flowchart TB
     %% Components
