@@ -13,9 +13,12 @@
 </div>
 
 * Markdown
-  * [Syntax](markdown-syntax.md)
+  * [Syntax](./markdown/markdown-syntax.md)
 * Mermaid
-  * [Syntax](mermaidjs-syntax.md)
+  * [Syntax](./mermaid/mermaidjs-syntax.md)
+
+
+* Markdown | [Syntax](./markdown/markdown-syntax.md) |
 
 ## Microsoft Internet Information Services
 
