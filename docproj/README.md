@@ -16,6 +16,9 @@
 
 ***
 
+**Markdown** [Syntax](./markdown/markdown-syntax.md)
+
+
 ## Markdown
 
 * [Markdown syntax](./markdown/markdown-syntax.md)

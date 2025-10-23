@@ -1,10 +1,10 @@
-<!-- u251009 -->
+<!-- u251023 -->
 
-[[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
+[[🏠︎](../README.md)]
 
 <div align="center">
 
-# The APCP Documentation Project
+### The APCP Documentation Project
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/logo/apcp-logo-dark-256x256.png">
@@ -24,7 +24,7 @@ Each project should have a `ProjectInfo` file with XML Documentation (or equival
 
 The XML documentation can either be in the source code, or in an external file.
 
-# ProjectInfo.cs
+## ProjectInfo.cs
 
 A C# project would have a `ProjectInfo.cs` file with the following content:
 
@@ -62,10 +62,10 @@ namespace %Namespace%;
     ///    <see href="https://github.com/repository/documentation">Documentation</see>
     ///  </para>
     ///</remarks>
-internal class ProjectInfo
-{
-    // This class is only used for informational purposes, and does not contain executable code.
-}
+    internal class ProjectInfo
+    {
+        // This class is only used for informational purposes, and does not contain executable code.
+    }
 ```
 
 For example:
@@ -103,12 +103,14 @@ namespace dvn;
     ///    <see href="https://github.com/APrettyCoolProgram/dvn/blob/main/README.md">dvn documentation</see>
     ///  </para>
     ///</remarks>
-internal class ProjectInfo
-{
-    // This class is only used for informational purposes, and does not contain executable code.
-}
+    internal class ProjectInfo
+    {
+        // This class is only used for informational purposes, and does not contain executable code.
+    }
 ```
 
 <br>
 
-[[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
+***
+
+[[🏠︎](../README.md)]

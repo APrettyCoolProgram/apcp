@@ -14,7 +14,7 @@
     <img alt="Fallback image description" src="../../.github/logo/apcp-logo-light-256x256.png">
   </picture>
 
-# Markdown
+# Markdown syntax
 
 </div>
 
@@ -418,7 +418,6 @@ A footnote can also have multiple lines[^2].
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.  
   This is a second line.
-
 
 <br>
 

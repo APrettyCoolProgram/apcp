@@ -14,7 +14,7 @@
     <img alt="Fallback image description" src="../../.github/logo/apcp-logo-light-256x256.png">
   </picture>
 
-# Mermaid.js
+# Mermaid.js syntax
 
 </div>
 
