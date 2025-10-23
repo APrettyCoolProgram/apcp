@@ -18,7 +18,7 @@
   * [Syntax](./mermaid/mermaidjs-syntax.md)
 
 
-* **Markdown**  [Syntax](./markdown/markdown-syntax.md) |
+* **[Markdown]**  [Syntax](./markdown/markdown-syntax.md) |
 
 ## Microsoft Internet Information Services
 
