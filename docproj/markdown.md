@@ -1,6 +1,6 @@
 <!-- u251023 -->
 
-[[🏠︎](../README.md)]
+[[🏠︎](README.md)]
 
 ***
 
@@ -23,13 +23,11 @@
 ## GitHub flavored markdown
 
 * [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-
 * [About writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
-
 * [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <br>
 
 ***
 
-[[🏠︎](../README.md)]
+[[🏠︎](README.md)]
