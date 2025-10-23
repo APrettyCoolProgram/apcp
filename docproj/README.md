@@ -17,9 +17,6 @@
 * Mermaid
   * [Syntax](./mermaid/mermaidjs-syntax.md)
 
-
-* **[Markdown]**  [Syntax](./markdown/markdown-syntax.md) |
-
 ## Microsoft Internet Information Services
 
 * [Setup IIS](./iis/iis-setup/README.md)
