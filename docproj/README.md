@@ -17,9 +17,9 @@
 * Mermaid
   * [Syntax](./mermaid/mermaidjs-syntax.md)
 
-## Microsoft Internet Information Services
+## Setup
 
-* [Setup IIS](./iis/iis-setup/README.md)
+* [Microsoft Web Server (IIS)](./setup/iis/README.md)
 
 ## Project guidelines
 
