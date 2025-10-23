@@ -1,20 +1,18 @@
 <!-- u251023 -->
 
-[[🏠︎](../README.md)]
-
-***
+[[🏠︎](README.md)]
 
 <div align="center">
 
 ### The APCP Documentation Project
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/logo/apcp-logo-dark-256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../.github/img/logo/apcp-logo-light-256x256.png">
-    <img alt="Fallback image description" src="../../.github/logo/apcp-logo-light-256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../.github/img/logo/apcp-logo-dark-128x128.png">
+    <source media="(prefers-color-scheme: light)" srcset="../.github/img/logo/apcp-logo-light-128x128.png">
+    <img alt="Fallback image description" src="../.github/logo/apcp-logo-light-128x128.png">
   </picture>
 
-# Mermaid.js syntax
+# Markdown
 
 </div>
 
@@ -26,6 +24,8 @@
 * [Links](#links)
 * [Nodes](#nodes)
 * [Shapes and workflows](#shapes-and-workflows)
+
+***
 
 # Overview
 
@@ -64,6 +64,10 @@ flowchart TB
     classDef P2_ stroke:#f5eef8,stroke-width:3px,fill:#af7ac5,color:#f5eef8
     classDef G8_ stroke:#145a32,stroke-width:3px,fill:#1d8348,color:#e9f7ef
 ```
+
+## See also
+
+* [Mermaid documentation](https://mermaid.js.org/intro/)
 
 # Colors
 
