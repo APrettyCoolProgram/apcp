@@ -12,41 +12,35 @@
 
 </div>
 
-* Markdown
-  * [Syntax](./markdown/markdown-syntax.md)
-* Mermaid
-  * [Syntax](./mermaid/mermaidjs-syntax.md)
+## Application
 
-## Setup
+* [Setup VS2022]()
+* [Customize VS2022]()
+* [Publish VS2022 projects]()
+* [Integrating SHFB into VS2022]()
+* [Setup Microsoft Web Server (IIS)]()
 
-* [Microsoft Web Server (IIS)](./setup/iis/README.md)
+## Documentation
 
-## Project guidelines
+* [Markdown syntax]()
+* [Mermaid syntax]()
+* [XML documentation (C#)]()
 
-* [ProjectInfo file](./project/project-info.md)
-* [Versioning](./project/versioning.md)
+## Project
 
-## Repository guidelines
+* [ProjectInfo file]()
 
-* [.github directory](./repository/github-directory.md)
-* [.gitignore file](./repository/gitignore.md)
-* [README.md](./repository/README.md)
-* [Repository structure](./repository/structure.md)
+## Repository
 
-## Sandcastle Help File Builder
+* [.github directory]()
+* [.gitignore file]()
+* [README.md]()
+* [Repository structure]()
 
-* [Integration with Visual Studio 2022](./shfb/shfb-vs2022-integration/README.md)
+## Source code
 
-## Visual Studio
-
-### Visual Studio 2022
-
-* [Setup VS2022 ](./vs2022/setup/README.md)
-* [Customize VS2022](./vs2022/customize/README.md)
-* [Publishing projects](./vs2022/publish/README.md)
-
-### Visual Studio Code
-
-## XML Documentation
-
-* [C#](./xml-documentation/xml-csharp.md)
+* [Comments]()
+* [Namespace]()
+* [Class]()
+* [Method]()
+* [File header]()
