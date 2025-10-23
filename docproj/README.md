@@ -12,16 +12,7 @@
 
 </div>
 
-<br>
-
-***
-
-**Markdown** [Syntax](./markdown/markdown-syntax.md)
-
-
-## Markdown
-
-* [Markdown syntax](./markdown/markdown-syntax.md)
+[Markdown](markdown.md)
 
 ## Mermaid.js
 
