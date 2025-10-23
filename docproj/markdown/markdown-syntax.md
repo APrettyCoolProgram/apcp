@@ -1,4 +1,4 @@
-<!-- u251022 -->
+<!-- u251023 -->
 
 [[🏠︎](../README.md)]
 
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-#### The APCP Documentation Project
+### The APCP Documentation Project
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/logo/apcp-logo-dark-256x256.png">

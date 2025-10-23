@@ -1,13 +1,12 @@
-<!-- u250818 -->
+<!-- u251023 -->
 
-[[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
+[[🏠︎](../README.md)]
 
 ***
 
-
 <div align="center">
 
-# The APCP Documentation Project
+### The APCP Documentation Project
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/logo/apcp-logo-dark-256x256.png">
@@ -15,7 +14,7 @@
     <img alt="Fallback image description" src="../../.github/logo/apcp-logo-light-256x256.png">
   </picture>
 
-## Mermaid.js
+# Mermaid.js
 
 </div>
 
@@ -657,4 +656,4 @@ flowchart LR
 
 ***
 
-[[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
+[[🏠︎](../README.md)]
