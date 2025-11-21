@@ -18,10 +18,6 @@
 
 </div>
 
-> **This document was last updated** March 17, 2025
-
-</div>
-
 CONTENTS  
 [Installing Visual Studio 2022]()  
 [Installing Visual Studio 2022 extensions]()  
