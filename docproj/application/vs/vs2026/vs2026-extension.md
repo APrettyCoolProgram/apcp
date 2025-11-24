@@ -33,7 +33,6 @@ To install an extension:
 
 [Mads Kristensen](https://www.madskristensen.net/) is a Principal Product Manager for Visual Studio, and has made some awesome extensions:
 
-* [Image Optimizer (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer64bit)
 * [Clean Solution](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CleanSolution)
 * [Code Cleanup On Save](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CodeCleanupOnSave)
 * [Color Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ColorPreview)
@@ -42,6 +41,7 @@ To install an extension:
 * [Editor Info](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DocumentMargin)
 * [File Differ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileDiffer)
 * [File Explorer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WorkflowBrowser)
+* _[File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
 * [Font Sizer 2.0](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
 * [Image Optimizer (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer64bit)
 * [Image Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImagePreview)
@@ -59,10 +59,11 @@ To install an extension:
 
 ## Other extensions
 
-* [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE) 
+* [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
 * [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
 * [CopyFolderTree](https://marketplace.visualstudio.com/items?itemName=iyulab.CopyFolderTree)
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview)
+* _[Extended XML Doc Comments Provider](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022)
 * [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter)
 * [JSON Pretty](https://marketplace.visualstudio.com/items?itemName=Hemax2000.JsonPretty)
 * [Roslynator 2022](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022)
@@ -76,7 +77,9 @@ To install an extension:
 
 Themes/color schemes/etc. are a personal choice. I use these:
 
+* _[Cyberpunk](https://marketplace.visualstudio.com/items?itemName=T0uchM3.CTVS19)
 * [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
+* _[Goodnight](https://marketplace.visualstudio.com/items?itemName=wuoyrd.goodnight)
 * [OLED Black Theme](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VantaBlack)
 * [Synthwave '84 Reborn](https://marketplace.visualstudio.com/items?itemName=Fasteroid.Synthwave84VS)
 * [Visual Studio Theme Pack](https://marketplace.visualstudio.com/items?itemName=idex.vsthemepack)
