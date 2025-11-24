@@ -77,9 +77,7 @@ To install an extension:
 
 Themes/color schemes/etc. are a personal choice. I use these:
 
-* _[Cyberpunk](https://marketplace.visualstudio.com/items?itemName=T0uchM3.CTVS19)
 * [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
-* _[Goodnight](https://marketplace.visualstudio.com/items?itemName=wuoyrd.goodnight)
 * [OLED Black Theme](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VantaBlack)
 * [Synthwave '84 Reborn](https://marketplace.visualstudio.com/items?itemName=Fasteroid.Synthwave84VS)
 * [Visual Studio Theme Pack](https://marketplace.visualstudio.com/items?itemName=idex.vsthemepack)
