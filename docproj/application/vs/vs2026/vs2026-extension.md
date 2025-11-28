@@ -1,4 +1,4 @@
-<!-- u251121-->
+<!-- u251128-->
 
 [[🏠︎](../README.md)] ❰ [How To](README.md)
 
@@ -14,7 +14,7 @@
 
   <h2>Visual Studio 2026: Installing Extensions</h2>
 
-**This document was last updated** November 21, 2025
+**This document was last updated** November 28, 2025
 
 </div>
 
@@ -41,7 +41,7 @@ To install an extension:
 * [Editor Info](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DocumentMargin)
 * [File Differ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileDiffer)
 * [File Explorer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WorkflowBrowser)
-* _[File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
+* [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
 * [Font Sizer 2.0](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
 * [Image Optimizer (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer64bit)
 * [Image Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImagePreview)
@@ -54,7 +54,7 @@ To install an extension:
 * [Show Selection Length](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ShowSelectionLength)
 * [Solution Colors](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionColors)
 * [Syntax Booster Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.LanguagePack&ssr=false#overview)
-*[Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespace64)
+* [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespace64)
 * [Tweaks 2022](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks2022)
 
 ## Other extensions
@@ -63,7 +63,7 @@ To install an extension:
 * [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
 * [CopyFolderTree](https://marketplace.visualstudio.com/items?itemName=iyulab.CopyFolderTree)
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview)
-* _[Extended XML Doc Comments Provider](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022)
+* [Extended XML Doc Comments Provider](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022)
 * [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter)
 * [JSON Pretty](https://marketplace.visualstudio.com/items?itemName=Hemax2000.JsonPretty)
 * [Roslynator 2022](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022)
