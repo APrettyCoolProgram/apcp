@@ -33,6 +33,7 @@ To install an extension:
 
 [Mads Kristensen](https://www.madskristensen.net/) is a Principal Product Manager for Visual Studio, and has made some awesome extensions:
 
+* [Add New File (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile64)
 * [Clean Solution](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CleanSolution)
 * [Code Cleanup On Save](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CodeCleanupOnSave)
 * [Color Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ColorPreview)
@@ -46,7 +47,6 @@ To install an extension:
 * [Image Optimizer (64-bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer64bit)
 * [Image Preview](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImagePreview)
 * [JSON Schema Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JSONSchemaGenerator2)
-* [Font Sizer 2.0](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FontSizer2)
 * [KnownMonikers Explorer (64 bit)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.KnownMonikersExplorer2022)
 * [Markdown Editor v2](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2)
 * [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
