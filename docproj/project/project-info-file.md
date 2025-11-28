@@ -1,4 +1,4 @@
-<!-- u251023 -->
+<!-- u251128 -->
 
 [[🏠︎](../README.md)]
 
@@ -36,12 +36,8 @@ A C# project would have a `ProjectInfo.cs` file with the following content:
 // Copyright (c) A Pretty Cool Program. All rights reserved.
 // Licensed under the Apache 2.0 license.
 // -----------------------------------------------------------------------------
-// Release YY.MM -OR- Version X.y.z
-// Build YYMMDD
+// Release YY.MM -OR- Version X.y.z [(Build YYMMDD)]
 // =============================================================================
-
-// uYYMMDD_code
-// uYYMMDD_documentation
 
 namespace %Namespace%;
 
@@ -78,12 +74,8 @@ For example:
 // Copyright (c) A Pretty Cool Program. All rights reserved.
 // Licensed under the Apache 2.0 license.
 // -----------------------------------------------------------------------------
-// Version 1.0.1
-// Build 250802
+// Version 1.0.1 (Build 250802)
 // =============================================================================
-
-// u250802_code
-// u250802_documentation
 
 namespace dvn;
 
