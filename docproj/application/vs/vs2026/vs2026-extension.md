@@ -1,4 +1,4 @@
-<!-- u251128-->
+<!-- u251223-->
 
 [[🏠︎](../README.md)] ❰ [How To](README.md)
 
@@ -14,7 +14,7 @@
 
   <h2>Visual Studio 2026: Installing Extensions</h2>
 
-**This document was last updated** November 28, 2025
+**This document was last updated** December 23, 2025
 
 </div>
 
@@ -57,17 +57,21 @@ To install an extension:
 * [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespace64)
 * [Tweaks 2022](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks2022)
 
+## Microsoft
+
+- [Single-project MSIX Packaging Tools for VS 2022-26](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftSingleProjectMSIXPackagingToolsDev17)
+
 ## Other extensions
 
 * [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
 * [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
+
 * [CopyFolderTree](https://marketplace.visualstudio.com/items?itemName=iyulab.CopyFolderTree)
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview)
 * [Extended XML Doc Comments Provider](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022)
 * [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter)
 * [JSON Pretty](https://marketplace.visualstudio.com/items?itemName=Hemax2000.JsonPretty)
 * [Roslynator 2022](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022)
-* [Single-project MSIX Packaging Tools for VS 2022-26](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftSingleProjectMSIXPackagingToolsDev17)
 * [SolutionMapper](https://marketplace.visualstudio.com/items?itemName=TJGokken.solmap2025)
 * [Spell Check My Code](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater)
 * [VSColorOutput64](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput64)
