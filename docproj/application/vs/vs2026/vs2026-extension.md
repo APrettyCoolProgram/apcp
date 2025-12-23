@@ -65,7 +65,6 @@ To install an extension:
 
 * [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
 * [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
-
 * [CopyFolderTree](https://marketplace.visualstudio.com/items?itemName=iyulab.CopyFolderTree)
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview)
 * [Extended XML Doc Comments Provider](https://marketplace.visualstudio.com/items?itemName=EWoodruff.ExtendedDocCommentsProvider2022)
