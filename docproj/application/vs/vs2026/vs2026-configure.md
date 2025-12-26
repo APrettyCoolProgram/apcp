@@ -1,4 +1,4 @@
-<!-- u251121-->
+<!-- u251223-->
 
 [[🏠︎](../README.md)] ❰ [How To](README.md)
 
@@ -12,13 +12,59 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/apcp/blob/main/.github/img/logo/apcp-logo-light-128x128.png?raw=true">
   </picture>
 
-  <h2>Visual Studio 2026: Configuring</h2>
+  <h1>Visual Studio 2026: Configuring</h1>
 
-**This document was last updated** November 21, 2025
+**This document was last updated** December 23, 2025
 
 </div>
 
-> These settings are specific to Visual Studio 2026 18.0.1
+Only the following settings are changed:
+
+## All Settings > Environment > Task List
+
+The task list should be:
+
+- DEPRECIATED
+- DEVNOTE
+- REVIEW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Configuring Visual Studio 2026 Options
 
