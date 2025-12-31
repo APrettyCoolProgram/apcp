@@ -1,4 +1,4 @@
-<!-- u250825 -->
+<!-- u251231 -->
 
 [[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
 
@@ -39,6 +39,7 @@ CONTENTS
   - [\<value\> tag](#value-tag)
 - [Callouts](#callouts)
 - [Complete XML documentation example](#complete-xml-documentation-example)
+- [Copilot prompts](#copilot-promots)
 
 # XML documentation guidelines
 
@@ -707,6 +708,14 @@ This example of an XML documentation comment details the correct tag order:
 /// <returns>A boolean of true or false.</returns>
 /// <value>Default value is <c>false</c></value>
 ```
+# Copilot prompts
+
+Helpful Copilot prompts:
+
+```text
+Put XML documentation summaries one one line, and under 120 characters
+```
+
 
 <br>
 
