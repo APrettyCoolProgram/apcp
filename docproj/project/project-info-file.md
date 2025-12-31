@@ -36,7 +36,7 @@ A C# project would have a `ProjectInfo.cs` file with the following content:
 // Copyright (c) A Pretty Cool Program. All rights reserved.
 // Licensed under the Apache 2.0 license.
 // -----------------------------------------------------------------------------
-// Release YY.MM -OR- Version X.y.z [(Build YYMMDD)]
+// Release YY.MM -OR- Version X.y.z (Build YYMMDD)
 // =============================================================================
 
 namespace %Namespace%;
