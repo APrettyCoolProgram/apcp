@@ -713,7 +713,9 @@ This example of an XML documentation comment details the correct tag order:
 Helpful Copilot prompts:
 
 ```text
-Put XML documentation summaries one one line, and under 120 characters
+- Update XML documentation in Filename.cs
+- Keeping summaries one one line
+- Keep all XML documentation under 120 characters
 ```
 
 
