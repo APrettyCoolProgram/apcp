@@ -14,7 +14,9 @@
 
 </div>
 
-## [AutoHotkey](https://www.autohotkey.com/)
+## AutoHotkey
+
+> Download [AutoHotkey](https://www.autohotkey.com/)
 
 * [apcp dotfile](/DevelopmentEnvironment/Dotfiles/AutoHotkey/AutoHotKey_apcp.ahk)
 
