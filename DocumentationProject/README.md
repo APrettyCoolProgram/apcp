@@ -1,14 +1,16 @@
-<!-- u250924 -->
+<!-- 260101 -->
 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../.github/img/logo/apcp-logo-dark-256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../.github/img/logo/apcp-logo-light-256x256.png">
-    <img alt="Fallback image description" src="../.github/img/logo/apcp-logo-light-256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-dark-512x512.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-512x512.png">
+    <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-512x512.png">
   </picture>
 
-# The APCP Documentation Project
+  <h1>
+    APCP Documentation Project
+  <h1>
 
 </div>
 
