@@ -18,5 +18,5 @@
 
 # What's here
 
-* Development environment [resources](/DevelopmentEnvironment/README.md)
-* The [APCP Documentation Project](/docproj/README.md)
+* Claudia IDE [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)
+* Desktop [wallpapers](/DevelopmentEnvironment/Backgrounds/Wallpapers/)
