@@ -8,13 +8,11 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
   </picture>
 
-  <h4>Development Environment > Backgrounds<h4>
+  <h3>Development Environment > Backgrounds<h3>
 
 </div>
 
 <br>
-
-***
 
 ## What's here
 
