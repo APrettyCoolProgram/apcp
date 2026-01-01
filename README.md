@@ -16,4 +16,7 @@
 
 <br>
 
+# What's here
+
+* Development environment [Resources](/DevelopmentEnvironment/README.md)
 * The [APCP Documentation Project](/docproj/README.md)
