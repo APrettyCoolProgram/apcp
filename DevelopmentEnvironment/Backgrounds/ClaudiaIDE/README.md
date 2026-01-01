@@ -8,15 +8,12 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
   </picture>
 
-  <h1>Development Environment > Backgrounds
-
 </div>
 
 <br>
 
 ***
 
-## What's here
+# What's here
 
-* Claudia IDE [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)
-* Desktop [wallpapers](/DevelopmentEnvironment/Backgrounds/Wallpapers/)
+Backgrounds for the [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE) extension for Visual Studio 2022/2026.
