@@ -9,13 +9,9 @@
   </picture>
 
   <h2>
-    APCP Documentation Project > Syntax
+    APCP Documentation Project > Guidelines
   <h2>
 
 </div>
 
-## Recommended syntax
-
-* [Markdown](MarkdownSyntax.md)
-* [Mermaid](MermaidjsSyntax.md)
-* [XML documentation](XmlDocumentationSyntax.md)
+## What's here

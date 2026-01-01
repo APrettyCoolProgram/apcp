@@ -9,7 +9,7 @@
   </picture>
 
   <h2>
-    APCP Docuementation Project > Copilot
+    APCP Documentation Project > Copilot
   <h2>
 
 </div>
