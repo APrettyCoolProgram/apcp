@@ -9,7 +9,7 @@
   </picture>
 
   <h2>
-    APCP Documentation Project > Syntax
+    APCP Documentation Project > Project Guidelines
   <h2>
 
 </div>

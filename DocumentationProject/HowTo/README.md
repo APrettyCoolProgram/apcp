@@ -9,7 +9,7 @@
   </picture>
 
   <h2>
-    Development Environment > Backgrounds
+    APCP Documentation Project > How-Tos
   <h2>
 
 </div>
