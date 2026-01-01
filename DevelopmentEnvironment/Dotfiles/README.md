@@ -9,12 +9,15 @@
   </picture>
 
   <h2>
-    Development Environment > Backgrounds
+    Development Environment > Dotfiles
   <h2>
 
 </div>
 
-## What's here
+## [AutoHotkey](https://www.autohotkey.com/)
 
-* [AutoHotkey](https://www.autohotkey.com/) [dotfiles](/DevelopmentEnvironment/Dotfiles/AutoHotkey/)
-* Setting files for [Visual Studio 2026](/DevelopmentEnvironment/Dotfiles/VS2026/)
+* [apcp dotfile](/DevelopmentEnvironment/Dotfiles/AutoHotkey/AutoHotKey_apcp.ahk)
+
+## Visual Studio 2026
+
+* [Current settings](/DevelopmentEnvironment/Dotfiles/VS2026/Current/)
