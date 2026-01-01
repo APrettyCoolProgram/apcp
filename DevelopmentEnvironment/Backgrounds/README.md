@@ -9,12 +9,12 @@
   </picture>
 
   <h2>
-    Development Environment Backgrounds
+    Development Environment > Backgrounds
   <h2>
 
 </div>
 
 ## What's here
 
-* Claudia IDE [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)
-* Desktop [wallpapers](/DevelopmentEnvironment/Backgrounds/Wallpapers/)
+* [Claudia IDE]( [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE) extension for Visual Studio 2022/2026) [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)
+* Code-themed desktop [wallpapers](/DevelopmentEnvironment/Backgrounds/Wallpapers/)

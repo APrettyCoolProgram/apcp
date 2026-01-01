@@ -8,12 +8,16 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
   </picture>
 
+  <h2>
+    Development Environment > Dotfiles
+  <h2>
+
 </div>
-
-<br>
-
-***
 
 # What's here
 
-Backgrounds for the [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE) extension for Visual Studio 2022/2026.
+Dotfiles for:
+
+* [AutoHotkey](/DevelopmentEnvironment/dotfiles/AutoHotkey/README.md)
+* [Visual Studio 2026]()
+* [Visual Studio 2022]()
