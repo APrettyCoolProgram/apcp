@@ -9,15 +9,12 @@
   </picture>
 
   <h2>
-    Development Environment > Dotfiles
+    Development Environment > Backgrounds
   <h2>
 
 </div>
 
-# What's here
+## What's here
 
-Dotfiles for:
-
-* [AutoHotkey](/DevelopmentEnvironment/dotfiles/AutoHotkey/README.md)
-* [Visual Studio 2026]()
-* [Visual Studio 2022]()
+* [AutoHotkey](https://www.autohotkey.com/) extension for Visual Studio 2022/2026) [dotfiles](/DevelopmentEnvironment/Dotfiles/AutoHotkey/)
+* Setting files for [Visual Studio 2026](/DevelopmentEnvironment/Dotfiles/VS2026/) and [Visual Studio 2022](/DevelopmentEnvironment/Dotfiles/VS2022/)
