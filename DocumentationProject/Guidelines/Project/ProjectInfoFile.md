@@ -8,9 +8,11 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-128x128.png">
   </picture>
 
-  ### APCP Documentation Project > Guidelines > Projects > ProjectInfo file
+  ### APCP Documentation Project > Guidelines > Projects > **ProjectInfo file**
 
 </div>
+
+***
 
 Each project should have a `ProjectInfo` file with XML Documentation (or equivalent) containing the following information about the project:
 
