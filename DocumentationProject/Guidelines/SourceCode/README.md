@@ -9,12 +9,9 @@
   </picture>
 
   <h2>
-    APCP Documentation Project > Source Code  Guidelines
+    APCP Documentation Project > Source Code Guidelines
   <h2>
 
 </div>
 
 ## What's here
-
-* [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE) extension for Visual Studio 2022/2026) [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)
-* Code-themed desktop [wallpapers](/DevelopmentEnvironment/Backgrounds/Wallpapers/)

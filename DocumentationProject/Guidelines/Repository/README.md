@@ -9,10 +9,9 @@
   </picture>
 
   <h2>
-    APCP Docuementation Project > Copilot
+    APCP Documentation Project > Repository Guidelines
   <h2>
 
 </div>
 
 ## What's here
-
