@@ -8,10 +8,8 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-128x128.png">
   </picture>
 
-  <h3>
-    APCP Documentation Project > Syntax > XML Documentation
-  <h3>
-
+  ### APCP Documentation Project > Syntax > **XML Documentation**
+  
 </div>
 
 CONTENTS

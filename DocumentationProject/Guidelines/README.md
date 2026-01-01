@@ -8,12 +8,18 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
   </picture>
 
-  <h2>
-    APCP Documentation Project > Guidelines
-  <h2>
+  ## APCP Documentation Project > **Guidelines**
 
 </div>
 
 ## Project guidelines
 
 * The [ProjectInfo](./Project/ProjectInfoFile.md) file
+
+## Repository guidelines
+
+* The [.github/](./Repository/GithubDirectory.md) directory
+* The repository [README.md](./Repository/RepositoryReadme.md)
+* The repository [structure](./Repository/RepositoryStructure.md)
+
+## Source Code

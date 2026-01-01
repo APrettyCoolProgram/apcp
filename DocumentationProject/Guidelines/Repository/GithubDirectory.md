@@ -1,20 +1,18 @@
-<!-- u251023 -->
-
-[[🏠︎](../README.md)]
+<!-- 260101 -->
 
 <div align="center">
 
-### The APCP Documentation Project
-
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/APrettyCoolProgram/apcp/blob/main/.github/img/logo/apcp-logo-dark-128x128.png?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/APrettyCoolProgram/apcp/blob/main/.github/img/logo/apcp-logo-light-128x128.png?raw=true">
-    <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/apcp/blob/main/.github/img/logo/apcp-logo-light-128x128.png?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-dark-128x128.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-128x128.png">
+    <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-128x128.png">
   </picture>
 
-# The ./github/ folder
+  ### APCP Documentation Project > Guidelines > **Repository** > **.github/**
 
 </div>
+
+***
 
 The `.github/` folder is a place to store repository- or account-level GitHub configuration and community health files (like CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, issue and PR templates in .github/ISSUE_TEMPLATE/, FUNDING.yml, etc.).
 
