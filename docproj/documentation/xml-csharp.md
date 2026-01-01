@@ -39,7 +39,6 @@ CONTENTS
   - [\<value\> tag](#value-tag)
 - [Callouts](#callouts)
 - [Complete XML documentation example](#complete-xml-documentation-example)
-- [Copilot prompts](#copilot-prompts)
 
 # XML documentation guidelines
 
@@ -708,16 +707,6 @@ This example of an XML documentation comment details the correct tag order:
 /// <returns>A boolean of true or false.</returns>
 /// <value>Default value is <c>false</c></value>
 ```
-# Copilot prompts
-
-Helpful Copilot prompts:
-
-```text
-- Update XML documentation in open files
-- Keep summary tags on a single line
-- Keep all XML documentation under 120 characters
-```
-
 
 <br>
 
