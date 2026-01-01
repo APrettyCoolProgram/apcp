@@ -14,4 +14,6 @@
 
 </div>
 
-## What's here
+## Project guidelines
+
+* The [ProjectInfo](./Project/ProjectInfoFile.md) file
