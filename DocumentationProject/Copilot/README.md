@@ -16,3 +16,4 @@
 
 ## What's here
 
+* [Copilot prompts](CopilotPrompts.md)
