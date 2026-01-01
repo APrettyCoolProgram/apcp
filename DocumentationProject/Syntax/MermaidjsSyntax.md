@@ -655,9 +655,3 @@ flowchart LR
     %% Styles
     classDef default fill:#000, stroke:#FFF, stroke-width:1px
 ```
-
-<br>
-
-***
-
-[[🏠︎](../README.md)]

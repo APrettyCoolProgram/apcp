@@ -705,7 +705,3 @@ This example of an XML documentation comment details the correct tag order:
 /// <returns>A boolean of true or false.</returns>
 /// <value>Default value is <c>false</c></value>
 ```
-
-<br>
-
-[[🏠︎](../README.md)] ❬ [Documentation Guidelines](README.md)
