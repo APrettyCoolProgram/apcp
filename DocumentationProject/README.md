@@ -12,13 +12,23 @@
 
 </div>
 
+## What's here
+
+* Setup and configuration for various [applications](/DocumentationProject/Applications/README.md)
+* [Documentation syntax](/DocumentationProject/Syntax/README.md) for Markdown, XML, etc.
+* Various [how-tos](/DocumentationProject/HowTo/README.md)
+* [Copilot](/DocumentationProject/Copilot/README.md) prompts
+* [Guidelines](/DocumentationProject/Guidelines/README.md) for projects, documentation, etc.
+
+
+
+
+
 ## Application
 
-* [Setup Visual Studio 2022](./application/vs2022-setup/)
-* [Customize Visual Studio 2022](./application/vs2022-customize/)
 * [Publish Visual Studio 2022 projects](./application/vs2022-publish/)
 * [Integrating Sandcastle Help File Builder into Visual Studio 2022](./application/vs2022-shfb-integration/)
-* [Setup Microsoft Web Server (IIS)](./application/iis-setup/)
+
 
 ## Documentation
 

@@ -16,11 +16,5 @@
 
 ## What's here
 
-* [Install and setup Visual Studio 2026](/DocumentationProject/Applications/VS2026/VS2026-SetupInstall.md)
-* [Install and setup Microsoft IIS](/DocumentationProject/Applications/MicrosoftIIS/README.md)
-
-
-### Older documentation
-
-* [Install and setup Visual Studio 2022](/DocumentationProject/Applications/VS2022/VS2022-SetupInstall/README.md)
-* [Visual Studio 2022 extensions and configuration](/DocumentationProject/Applications/VS2022/VS2022-ExtensionsCustomization/README.md)
+* [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE) extension for Visual Studio 2022/2026) [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)
+* Code-themed desktop [wallpapers](/DevelopmentEnvironment/Backgrounds/Wallpapers/)
