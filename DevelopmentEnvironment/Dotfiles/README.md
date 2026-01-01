@@ -18,8 +18,8 @@
 
 > Download [AutoHotkey](https://www.autohotkey.com/)
 
-* [apcp dotfile](/DevelopmentEnvironment/Dotfiles/AutoHotkey/AutoHotKey_apcp.ahk)
+* [apcp dotfile](./AutoHotkey/AutoHotKey_apcp.ahk)
 
 ## Visual Studio 2026
 
-* [Current settings](/DevelopmentEnvironment/Dotfiles/VS2026/Current/)
+* [Current settings](./Dotfiles/VS2026/Current/)

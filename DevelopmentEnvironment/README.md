@@ -20,5 +20,5 @@
 
 # What's here
 
-* [Backgrounds](/DevelopmentEnvironment/Backgrounds/README.md)
-* [Dotfiles](/DevelopmentEnvironment/Dotfiles/README.md)
+* [Backgrounds](./Backgrounds/README.md)
+* [Dotfiles](./Dotfiles/README.md)

@@ -9,12 +9,13 @@
   </picture>
 
   <h2>
-    APCP Documentation Project > Syntax
+    APCP Documentation Project > Documentation Syntax
   <h2>
 
 </div>
 
-## What's here
+## Recommended syntax
 
-* [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE) extension for Visual Studio 2022/2026) [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)
-* Code-themed desktop [wallpapers](/DevelopmentEnvironment/Backgrounds/Wallpapers/)
+* [Markdown](MarkdownSyntax.md)
+* [Mermaid](MermaidjsSyntax.md)
+* [XML documentation](XmlDocumentationSyntax.md)
