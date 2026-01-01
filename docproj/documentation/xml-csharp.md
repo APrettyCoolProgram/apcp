@@ -39,7 +39,7 @@ CONTENTS
   - [\<value\> tag](#value-tag)
 - [Callouts](#callouts)
 - [Complete XML documentation example](#complete-xml-documentation-example)
-- [Copilot prompts](#copilot-promots)
+- [Copilot prompts](#copilot-prompts)
 
 # XML documentation guidelines
 
