@@ -17,6 +17,7 @@
 - [Markdown](./Documentation/MarkdownSyntax.md)
 - [Mermaid](./Documentation/MermaidSyntax.mdd)
 - [XML documentation](./Documentation/XmlDocumentationSyntax.md)
+- [Source code comments](./Documentation/SourceCodeComments.md)
 
 ## Project guidelines
 
