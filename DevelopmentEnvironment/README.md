@@ -12,11 +12,7 @@
 
 </div>
 
-<br>
-
-***
-
-# What's here
+## What's here
 
 * [Backgrounds](./Backgrounds/README.md)
 * [Dotfiles](./Dotfiles/README.md)
