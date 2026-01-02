@@ -101,5 +101,4 @@ Notes:
 ![](tools-options-text-editor-general-01.png)
 
 ***
-
-[<sub>Last updated: March 17, 2025</sub>]
+<sub>Last updated: March 17, 2025</sub>

@@ -217,5 +217,4 @@ Things to remember about this list:
 3. Pick a color you like!
 
 ***
-
-[<sub>Last updated: March 17, 2025</sub>]
+<sub>Last updated: March 17, 2025</sub>
