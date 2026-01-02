@@ -1,22 +1,18 @@
-<!-- u251223-->
-
-[[🏠︎](../README.md)] ❰ [How To](README.md)
+<!-- 260101 -->
 
 <div align="center">
 
-# The APCP Documentation Project
-
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/APrettyCoolProgram/apcp/blob/main/.github/img/logo/apcp-logo-dark-128x128.png?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/APrettyCoolProgram/apcp/blob/main/.github/img/logo/apcp-logo-light-128x128.png?raw=true">
-    <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/apcp/blob/main/.github/img/logo/apcp-logo-light-128x128.png?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-dark-256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
+    <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
   </picture>
 
-  <h2>Visual Studio 2026: Installing Extensions</h2>
-
-**This document was last updated** December 27, 2025
+  ### APCP ❭ Documentation Project ❭ Applications ❭ **Visual Studio 2026 Extensions**
 
 </div>
+
+***
 
 These are the extensions I install. You may want/need to install other extensions.
 
@@ -99,4 +95,9 @@ Themes/color schemes/etc. are a personal choice. I use these:
 * [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
 * [Synthwave '84 Reborn](https://marketplace.visualstudio.com/items?itemName=Fasteroid.Synthwave84VS)
 
-> NEXT: [Configuring Visual Studio](vs2026-configure.md)
+> NEXT: [Configuring Visual Studio](VS2026-Configure.md)
+
+<br/>
+
+***
+<sub>Last updated: December 27th, 2025</sub>

@@ -32,7 +32,7 @@ For example, I've installed the following workflows for developing web services 
 
 The workflows you specify will take care of the other components of the installation process.
 
-> NEXT: [Installing extensions](vs2026-extension.md)
+> NEXT: [Installing extensions](VS2026-Extensions.md)
 
 <br/>
 
