@@ -8,7 +8,7 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-512x512.png">
   </picture>
 
-   # APCP ❱ **Development Environment**
+   # APCP ❱ **Development Environment Resources**
 
 </div>
 
@@ -16,16 +16,12 @@
 
 ### Backgrounds and wallpapers
 
-- Claudia IDE [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)  
-  > Download the [Claudia IDE extension](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
-
+- Claudia IDE [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)
 - Code-themed desktop [wallpapers](/DevelopmentEnvironment/Backgrounds/Wallpapers/)
 
 - [Dotfiles](./Dotfiles/README.md)
 
 ### Dotfiles
 
-- AutoHotkey [script](./Dotfiles/AutoHotkey/AutoHotKey_apcp.ahk)  
-  > Download [AutoHotkey](https://www.autohotkey.com/)
-
+- AutoHotkey [script](./Dotfiles/AutoHotkey/AutoHotKey_apcp.ahk)
 - Visual Studio 2026 [Current settings](./Dotfiles/VS2026/Current/)
