@@ -14,12 +14,3 @@
 
 </div>
 
-## AutoHotkey
-
-> Download [AutoHotkey](https://www.autohotkey.com/)
-
-* [apcp dotfile](./AutoHotkey/AutoHotKey_apcp.ahk)
-
-## Visual Studio 2026
-
-* [Current settings](./Dotfiles/VS2026/Current/)

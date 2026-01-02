@@ -14,5 +14,18 @@
 
 ## What's here
 
-* [Backgrounds](./Backgrounds/README.md)
-* [Dotfiles](./Dotfiles/README.md)
+### Backgrounds and wallpapers
+
+- Claudia IDE [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)  
+  > Download the [Claudia IDE extension](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
+
+- Code-themed desktop [wallpapers](/DevelopmentEnvironment/Backgrounds/Wallpapers/)
+
+- [Dotfiles](./Dotfiles/README.md)
+
+### Dotfiles
+
+- AutoHotkey [script](./Dotfiles/AutoHotkey/AutoHotKey_apcp.ahk)  
+  > Download [AutoHotkey](https://www.autohotkey.com/)
+
+- Visual Studio 2026 [Current settings](./Dotfiles/VS2026/Current/)
