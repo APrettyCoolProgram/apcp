@@ -21,5 +21,6 @@
 * The [.github/](./Repository/GithubDirectory.md) directory
 * The repository [README.md](./Repository/RepositoryReadme.md)
 * The repository [structure](./Repository/RepositoryStructure.md)
+* The [.gitignore](./Repository/gitignore.md) file
 
 ## Source Code
