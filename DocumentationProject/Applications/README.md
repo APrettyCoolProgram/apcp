@@ -14,3 +14,5 @@
 
 - Install and setup [Microsoft IIS](./MicrosoftIIS/README.md)
 - Install and setup [Visual Studio 2026](./VS2026/VS2026-SetupInstall.md)
+- [Publishing](./VSPublish/README.md) Visual Studio projects
+- [Integrating](./SandcastleHelpFileBuilder/README.md) Sandcastle Help File Builder into Visual Studio

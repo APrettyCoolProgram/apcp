@@ -14,6 +14,3 @@
 
 ## Recommended syntax
 
-* [Markdown](MarkdownSyntax.md)
-* [Mermaid](MermaidSyntax.md)
-* [XML documentation](XmlDocumentationSyntax.md)

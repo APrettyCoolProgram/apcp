@@ -12,10 +12,7 @@
 
 </div>
 
-## What's here
+* [Applications](/DocumentationProject/Applications/README.md)
+* [Copilot](/DocumentationProject/Copilot/README.md)
+* [Guidelines](/DocumentationProject/Guidelines/README.md)
 
-* Setup and configuration for various [applications](/DocumentationProject/Applications/README.md)
-* [Documentation syntax](/DocumentationProject/Syntax/README.md) for Markdown, XML, etc.
-* Various [how-tos](/DocumentationProject/HowTo/README.md)
-* [Copilot](/DocumentationProject/Copilot/README.md) prompts
-* [Guidelines](/DocumentationProject/Guidelines/README.md) for projects, documentation, etc.

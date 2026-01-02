@@ -12,6 +12,12 @@
 
 </div>
 
+## Documentation
+
+* [Markdown](./Documentation/MarkdownSyntax.md)
+* [Mermaid](./Documentation/MermaidSyntax.mdd)
+* [XML documentation](./Documentation/XmlDocumentationSyntax.md)
+
 ## Project guidelines
 
 * The [ProjectInfo](./Project/ProjectInfoFile.md) file
