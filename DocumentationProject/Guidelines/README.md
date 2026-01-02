@@ -35,5 +35,5 @@
 
 - [C#](./SourceCode/CSharp.md)
 - [File headers](./SourceCode/FileHeaders.md)
-- [Source code comments](./Documentation/SourceCodeComments.md)
-- [XML documentation](./Documentation/XmlDocumentationSyntax.md)
+- [Source code comments](./SourceCode/SourceCodeComments.md)
+- [XML documentation](./SourceCode/XmlDocumentationSyntax.md)
