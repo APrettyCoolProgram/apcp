@@ -12,8 +12,6 @@
 
 </div>
 
-**This document was last updated** November 21, 2025
-
 ***
 
 </div>
@@ -37,3 +35,5 @@ For example, I've installed the following workflows for developing web services 
 The workflows you specify will take care of the other components of the installation process.
 
 > NEXT: [Installing extensions](vs2026-extension.md)
+
+<sub>Last updated: November 21, 2025</sub>
