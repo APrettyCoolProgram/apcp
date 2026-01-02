@@ -14,22 +14,16 @@
 
 ***
 
-All `.cs` files should have a file header comment.
+## C#
 
 ```csharp
-// =============================================================================
-// https://github.com/GithubAccount/project-name
-// uYYMMDD_code
-// uYYMMDD_documentation
-// =============================================================================
+// YYMMDD_code
+// YYMMDD_documentation
 ```
 
-For example:
+Example:
 
 ```csharp
-// =============================================================================
-// https://github.com/GithubAccount/project-name
-// u251120_code
-// u251120_documentation
-// =============================================================================
+// 251120_code
+// 251120_documentation
 ```
