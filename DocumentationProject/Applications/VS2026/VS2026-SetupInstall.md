@@ -34,5 +34,7 @@ The workflows you specify will take care of the other components of the installa
 
 > NEXT: [Installing extensions](vs2026-extension.md)
 
+<br/>
+
 ***
 <sub>Last updated: November 21, 2025</sub>
