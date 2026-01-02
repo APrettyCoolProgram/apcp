@@ -1,22 +1,23 @@
-<!-- u250924 -->
-
-[[🏠︎](../README.md)] ❰ [How To](README.md)
+<!-- 260101 -->
 
 <div align="center">
 
-# The APCP Documentation Project
-
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/APrettyCoolProgram/apcp/blob/main/.github/img/logo/apcp-logo-dark-128x128.png?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/APrettyCoolProgram/apcp/blob/main/.github/img/logo/apcp-logo-light-128x128.png?raw=true">
-    <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/apcp/blob/main/.github/img/logo/apcp-logo-light-128x128.png?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-dark-256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
+    <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
   </picture>
 
-  <h2>How To Setup Visual Studio 2022</h2>
-
-> **This document was last updated** March 17, 2025
+  ### APCP ❭ Documentation Project ❭ Applications ❭ **Installing Visual Studio 2022**
 
 </div>
+
+***
+
+> [!WARNING]
+> This documentation is no longer updated.
+
+***
 
 CONTENTS  
 [Installing Visual Studio 2022]()  
@@ -217,4 +218,4 @@ Things to remember about this list:
 
 ***
 
-[[🏠︎](../README.md)] ❰ [How To](README.md)
+[<sub>Last updated: March 17, 2025</sub>]

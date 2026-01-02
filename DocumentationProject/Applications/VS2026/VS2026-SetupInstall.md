@@ -14,8 +14,6 @@
 
 ***
 
-</div>
-
 This document will walk through the steps I take to setup my Visual Studio 2026 (v18.0.1) environment for C# development.
 
 # Installing Visual Studio 2026
@@ -36,4 +34,6 @@ The workflows you specify will take care of the other components of the installa
 
 > NEXT: [Installing extensions](vs2026-extension.md)
 
-<sub>Last updated: November 21, 2025</sub>
+***
+
+[<sub>Last updated: November 21, 2025</sub>]
