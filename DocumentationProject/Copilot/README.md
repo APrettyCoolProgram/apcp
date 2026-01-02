@@ -8,12 +8,12 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
   </picture>
 
-  <h2>
-    APCP Documentation Project > Copilot
-  <h2>
+  ### APCP ❭ Documentation Project ❭ **Copilot**
 
 </div>
 
+***
+
 ## What's here
 
-* [Copilot prompts](CopilotPrompts.md)
+* [Copilot prompts](./CopilotPrompts.md)
