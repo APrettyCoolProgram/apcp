@@ -14,28 +14,29 @@
 
 ***
 
-## Development comments
+## C#
 
-```csharp
-// Development comments contain important information that should not be removed
-// from the source code, and have a maximum width of 80 characters.
-```
+### Comments that start with `//`
 
-### Prefixes
+- Contain important information that either cannot be infered from the source code, or needs further clarification
+- Should not be removed from the source code
+- Can span multiple lines
+- Have a maximum width of 80 characters
 
-Development comments may have the following prefixes:
+### Comments that start with `/* */`
+
+- Provide provide additional information or narrative about a block of code
+- Can be removed from the source code
+- Can span multiple lines
+- Have a maximum width of 80 characters
+
+## Prefixes
+
+Comments may have the following prefixes:
 
 ```csharp
 // DEVNOTE is a call-out comment specific to a block of code
 // DEPRECIATED indicates that code has been depreciated, but not yet removed
 // REVIEW indicates that code should be reviewed and/or refactor
 // TODO indicates that there is something to be done.
-```
-
-## Narrative comments
-
-```csharp
-/* Narrative comments are enclosed with provide provide additional information or 
- * narrative about a block of code.
- */
 ```
