@@ -1,4 +1,23 @@
-# Visual Studio 2022 Setup
+<!-- 260101 -->
+
+> [!WARNING]
+> This documentation is no longer updated.
+
+***
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-dark-256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
+    <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
+  </picture>
+
+  ### APCP ❭ Documentation Project ❭ Applications ❭ **Setting up Visual Studio 2022**
+
+</div>
+
+***
 
 This will detail the setup of Visual Studio Community 2022 v17.12.3 with the following components:
 
@@ -80,3 +99,7 @@ Notes:
 ### Text Editor > General
 
 ![](tools-options-text-editor-general-01.png)
+
+***
+
+[<sub>Last updated: March 17, 2025</sub>]

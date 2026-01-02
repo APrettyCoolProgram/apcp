@@ -1,5 +1,10 @@
 <!-- 260101 -->
 
+> [!WARNING]
+> This documentation is no longer updated.
+
+***
+
 <div align="center">
 
   <picture>
@@ -11,11 +16,6 @@
   ### APCP ❭ Documentation Project ❭ Applications ❭ **Installing Visual Studio 2022**
 
 </div>
-
-***
-
-> [!WARNING]
-> This documentation is no longer updated.
 
 ***
 
