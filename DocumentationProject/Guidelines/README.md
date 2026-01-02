@@ -20,6 +20,7 @@
 
 ## Project guidelines
 
+- Project [structure](./Project/ProjectStructure.md)
 - The [ProjectInfo](./Project/ProjectInfoFile.md) file
 
 ## Repository guidelines
