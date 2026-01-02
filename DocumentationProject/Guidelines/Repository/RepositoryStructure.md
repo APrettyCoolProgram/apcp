@@ -13,3 +13,23 @@
 </div>
 
 ***
+
+## Repository framework
+
+```text
+%RepositoryName%
+├── .git/
+├── .github/
+│   ├── Copilot/
+│   │   ├── GeneratedContent
+│   ├── Development/
+│   │   ├── DesignDocument.md
+│   ├── Images/
+│   │   ├── Logos/
+│   │   ├── Readme/
+│   ├── Workspaces/
+├── src/
+├── .gitignore
+├── LICENSE
+├── README.me
+```
