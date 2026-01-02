@@ -1,3 +1,19 @@
+<!-- 260101 -->
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-dark-256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
+    <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
+  </picture>
+
+  ### APCP ❭ Documentation Project ❭ Applications ❭ **Publishing Visual Studio Projects**
+
+</div>
+
+***
+
 # How to publish as a single file
 
 1. Right-click on the project you want to publish, and choose "Publish"
@@ -40,3 +56,8 @@ If a solution has multiple projects, each project needs to be published.
 # More
 
 https://learn.microsoft.com/en-us/dotnet/core/deploying/
+
+<br/>
+
+***
+<sub>Last updated: November 21, 2025</sub>

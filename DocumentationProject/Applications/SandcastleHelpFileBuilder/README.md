@@ -1,18 +1,18 @@
-<!-- u250924 -->
-
-[[🏠︎](../README.md)] ❬ [How To](./README.md)
+<!-- 260101 -->
 
 <div align="center">
 
-# The APCP Documentation Project
-
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../.github/img/logo/apcp-logo-dark-256x256.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../.github/img/logo/apcp-logo-light-256x256.png">
-    <img alt="Fallback image description" src="../../.github/img/logo/apcp-logo-light-256x256.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-dark-256x256.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
+    <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-256x256.png">
   </picture>
 
+  ### APCP ❭ Documentation Project ❭ Applications ❭ **Integrating SHFB in Visual Studio**
+
 </div>
+
+***
 
 <br>
 
@@ -183,6 +183,8 @@ flowchart TB
 
 A few minutes after the `myproject` repository has been updated, the GitHub Pages site will be refreshed.
 
-***
 
-[[🏠︎](../README.md)] ❬ [How To](./README.md)
+<br/>
+
+***
+<sub>Last updated: November 21, 2025</sub>
