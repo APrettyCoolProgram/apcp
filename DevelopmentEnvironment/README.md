@@ -12,16 +12,12 @@
 
 </div>
 
-## What's here
-
-### Backgrounds and wallpapers
+## Backgrounds and wallpapers
 
 - Claudia IDE [background images](/DevelopmentEnvironment/Backgrounds/ClaudiaIDE/)
 - Code-themed desktop [wallpapers](/DevelopmentEnvironment/Backgrounds/Wallpapers/)
 
-- [Dotfiles](./Dotfiles/README.md)
-
-### Dotfiles
+## Dotfiles
 
 - AutoHotkey [script](./Dotfiles/AutoHotkey/AutoHotKey_apcp.ahk)
 - Visual Studio 2026 [Current settings](./Dotfiles/VS2026/Current/)
