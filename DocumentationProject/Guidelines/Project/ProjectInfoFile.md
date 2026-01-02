@@ -8,7 +8,7 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/APCP/blob/main/.github/img/logo/apcp-logo-light-128x128.png">
   </picture>
 
-  ### APCP Documentation Project > Guidelines > **Projects** > **ProjectInfo file**
+  ### APCP ❭ Documentation Project ❭ Guidelines ❭ Project ❭ **ProjectInfo file**
 
 </div>
 

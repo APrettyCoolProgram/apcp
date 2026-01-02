@@ -16,8 +16,8 @@
 
 - [Markdown](./Documentation/MarkdownSyntax.md)
 - [Mermaid](./Documentation/MermaidSyntax.mdd)
-- [XML documentation](./Documentation/XmlDocumentationSyntax.md)
-- [Source code comments](./Documentation/SourceCodeComments.md)
+
+
 
 ## Project guidelines
 
@@ -34,3 +34,6 @@
 ## Source Code guidelines
 
 - [C#](./SourceCode/CSharp.md)
+- [File headers](./SourceCode/FileHeaders.md)
+- [Source code comments](./Documentation/SourceCodeComments.md)
+- [XML documentation](./Documentation/XmlDocumentationSyntax.md)
