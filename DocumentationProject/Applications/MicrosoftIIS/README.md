@@ -100,7 +100,3 @@ flowchart LR
 If you checked the *Restart the destination server automatically if required* box on the confirmation screen, the server should reboot automatically.
 
 If the server does not reboot automatically, reboot manually.
-
-***
-
-[[🏠︎](../../README.md)]

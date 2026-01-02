@@ -12,5 +12,5 @@
 
 </div>
 
-- [Install and setup Visual Studio 2026](./VS2026/VS2026-SetupInstall.md)
-- [Install and setup Microsoft IIS](./MicrosoftIIS/README.md)
+- Install and setup [Microsoft IIS](./MicrosoftIIS/README.md)
+- Install and setup [Visual Studio 2026](./VS2026/VS2026-SetupInstall.md)
