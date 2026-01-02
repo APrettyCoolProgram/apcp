@@ -216,5 +216,7 @@ Things to remember about this list:
 2. Choose `Guideline` from the *Display Items* list
 3. Pick a color you like!
 
+<br/>
+
 ***
 <sub>Last updated: March 17, 2025</sub>
