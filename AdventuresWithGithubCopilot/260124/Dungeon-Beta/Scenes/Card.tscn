@@ -1,0 +1,4 @@
+[gd_scene load_steps=1 format=3 uid="uid://card-scene"]
+[node name="Card" type="Control"]
+[node name="Name" type="Label" parent="."]
+text = "Card"

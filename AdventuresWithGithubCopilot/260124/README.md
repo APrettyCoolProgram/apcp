@@ -77,21 +77,18 @@ Like Dungeon: Alpha, GPT-5 mini could not fix multiple errors with C#, and the g
 ## Dungeon: Charlie
 
 - AI model: Claude Sonnet 4.5
+- [Copilot prompts]()
 - [Chat documentation](./DungeonAlpha/Dungeon-Charlie-Copilot-Documentation.md)
 - [Project files](./DungeonCharlie/)
 
+This used 6.0% of premium requests (7.3% -> 13.3%)
+
 I decided to use Claude Sonnet 4.5 to create the initial framework, and it took longer than GPT-5 mini, but in the end
-created something that worked...mostly. The "Start New Game" and "Quit" buttons didnt' work, so Claude Sonnet walked me
+created something that worked...mostly. The "Start New Game" and "Quit" buttons didnt' work, so Claude walked me
 through building the C# project, after which the game started and the UI looked good.
 
+This time I had Copilot keep track of all of my prompts.
+
+Claude was having issues getting the hands of cards to show, and the UI was a little wonky, so I abandoned this attempt.
 
 
-
-
-
-
-
-
-This used 0.4% of premium requests (7.3% -> 7.7%)
-
-```

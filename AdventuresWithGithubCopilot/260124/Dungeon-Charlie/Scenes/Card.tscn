@@ -1,0 +1,92 @@
+[gd_scene load_steps=3 format=3 uid="uid://bx7d8qdtn3s5n"]
+
+[ext_resource type="Script" path="res://Scripts/Cards/Card.cs" id="1_card"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_card"]
+size = Vector2(120, 180)
+
+[node name="Card" type="Node2D"]
+script = ExtResource("1_card")
+
+[node name="CardSprite" type="Sprite2D" parent="."]
+modulate = Color(0.8, 0.7, 0.6, 1)
+scale = Vector2(120, 180)
+
+[node name="CardBackground" type="ColorRect" parent="."]
+offset_left = -60.0
+offset_top = -90.0
+offset_right = 60.0
+offset_bottom = 90.0
+color = Color(0.8, 0.7, 0.6, 1)
+
+[node name="CardBorder" type="ColorRect" parent="."]
+offset_left = -58.0
+offset_top = -88.0
+offset_right = 58.0
+offset_bottom = 88.0
+color = Color(0.2, 0.2, 0.2, 1)
+
+[node name="CardInner" type="ColorRect" parent="."]
+offset_left = -56.0
+offset_top = -86.0
+offset_right = 56.0
+offset_bottom = 86.0
+color = Color(0.9, 0.9, 0.85, 1)
+
+[node name="NameLabel" type="Label" parent="."]
+offset_left = -50.0
+offset_top = -80.0
+offset_right = 50.0
+offset_bottom = -50.0
+theme_override_font_sizes/font_size = 12
+text = "Card Name"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="CostLabel" type="Label" parent="."]
+offset_left = -50.0
+offset_top = -85.0
+offset_right = -30.0
+offset_bottom = -65.0
+theme_override_colors/font_color = Color(0, 0.5, 1, 1)
+theme_override_font_sizes/font_size = 16
+text = "0"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="AttackLabel" type="Label" parent="."]
+offset_left = -50.0
+offset_top = 65.0
+offset_right = -25.0
+offset_bottom = 85.0
+theme_override_colors/font_color = Color(1, 0, 0, 1)
+theme_override_font_sizes/font_size = 14
+text = "0"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="DefenseLabel" type="Label" parent="."]
+offset_left = 25.0
+offset_top = 65.0
+offset_right = 50.0
+offset_bottom = 85.0
+theme_override_colors/font_color = Color(0, 0, 1, 1)
+theme_override_font_sizes/font_size = 14
+text = "0"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="DescriptionLabel" type="Label" parent="."]
+offset_left = -50.0
+offset_top = -40.0
+offset_right = 50.0
+offset_bottom = 60.0
+theme_override_font_sizes/font_size = 10
+text = "Card description goes here"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("RectangleShape2D_card")

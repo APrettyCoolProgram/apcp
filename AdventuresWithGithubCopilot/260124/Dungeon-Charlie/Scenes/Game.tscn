@@ -1,0 +1,333 @@
+[gd_scene load_steps=15 format=3 uid="uid://drk73ype5hm2l"]
+
+[ext_resource type="Script" path="res://Scripts/Gameplay/GameManager.cs" id="1_manager"]
+[ext_resource type="Script" path="res://Scripts/Gameplay/Player.cs" id="2_player"]
+[ext_resource type="Script" path="res://Scripts/Cards/Deck.cs" id="3_deck"]
+[ext_resource type="Script" path="res://Scripts/Gameplay/CombatSystem.cs" id="4_combat"]
+[ext_resource type="Script" path="res://Scripts/Gameplay/OpponentAI.cs" id="5_ai"]
+[ext_resource type="Script" path="res://Scripts/UI/GameUI.cs" id="6_ui"]
+[ext_resource type="Script" path="res://Scripts/Cards/CardDatabase.cs" id="7_database"]
+[ext_resource type="PackedScene" uid="uid://csw8h7yt2qr3j" path="res://Scenes/HandManager.tscn" id="8_hand"]
+[ext_resource type="PackedScene" uid="uid://d3fhx5p8tml6r" path="res://Scenes/SlotManager.tscn" id="9_slot"]
+[ext_resource type="PackedScene" path="res://Scenes/VictoryScreen.tscn" id="10_victory"]
+[ext_resource type="PackedScene" path="res://Scenes/DefeatScreen.tscn" id="11_defeat"]
+[ext_resource type="PackedScene" path="res://Scenes/LevelProgressionScreen.tscn" id="12_progression"]
+[ext_resource type="Script" path="res://Scripts/UI/CombatVisualizer.cs" id="13_visualizer"]
+[ext_resource type="PackedScene" path="res://Scenes/DamageNumber.tscn" id="14_damage"]
+
+[node name="Game" type="Node2D"]
+
+[node name="GameManager" type="Node" parent="."]
+script = ExtResource("1_manager")
+
+[node name="Player" type="Node" parent="GameManager"]
+script = ExtResource("2_player")
+
+[node name="Deck" type="Node" parent="GameManager/Player"]
+script = ExtResource("3_deck")
+
+[node name="Opponent" type="Node" parent="GameManager"]
+script = ExtResource("2_player")
+
+[node name="Deck" type="Node" parent="GameManager/Opponent"]
+script = ExtResource("3_deck")
+
+[node name="CombatSystem" type="Node" parent="GameManager"]
+script = ExtResource("4_combat")
+
+[node name="OpponentAI" type="Node" parent="GameManager"]
+script = ExtResource("5_ai")
+
+[node name="CardDatabase" type="Node" parent="."]
+script = ExtResource("7_database")
+
+[node name="UI" type="CanvasLayer" parent="."]
+
+[node name="GameUI" type="Control" parent="UI"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("6_ui")
+
+[node name="TopBar" type="ColorRect" parent="UI/GameUI"]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_bottom = 60.0
+grow_horizontal = 2
+color = Color(0.2, 0.2, 0.2, 0.8)
+
+[node name="LevelLabel" type="Label" parent="UI/GameUI/TopBar"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = 20.0
+offset_top = -15.0
+offset_right = 200.0
+offset_bottom = 15.0
+grow_vertical = 2
+theme_override_font_sizes/font_size = 20
+text = "Level: 1"
+vertical_alignment = 1
+
+[node name="PhaseLabel" type="Label" parent="UI/GameUI/TopBar"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -100.0
+offset_top = -15.0
+offset_right = 100.0
+offset_bottom = 15.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 18
+text = "Phase: Main"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="TurnIndicatorLabel" type="Label" parent="UI/GameUI/TopBar"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 6
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -200.0
+offset_top = -15.0
+offset_right = -20.0
+offset_bottom = 15.0
+grow_horizontal = 0
+grow_vertical = 2
+theme_override_font_sizes/font_size = 20
+text = "YOUR TURN"
+horizontal_alignment = 2
+vertical_alignment = 1
+
+[node name="OpponentArea" type="ColorRect" parent="UI/GameUI"]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_top = 60.0
+offset_bottom = 250.0
+grow_horizontal = 2
+color = Color(0.3, 0.2, 0.2, 0.5)
+
+[node name="OpponentHealthLabel" type="Label" parent="UI/GameUI/OpponentArea"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -200.0
+offset_top = 10.0
+offset_right = -20.0
+offset_bottom = 40.0
+grow_horizontal = 0
+theme_override_font_sizes/font_size = 18
+text = "Health: 10"
+horizontal_alignment = 2
+
+[node name="OpponentManaLabel" type="Label" parent="UI/GameUI/OpponentArea"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -200.0
+offset_top = 40.0
+offset_right = -20.0
+offset_bottom = 70.0
+grow_horizontal = 0
+theme_override_font_sizes/font_size = 18
+text = "Mana: 1/1"
+horizontal_alignment = 2
+
+[node name="OpponentSlotsLabel" type="Label" parent="UI/GameUI/OpponentArea"]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -50.0
+offset_top = -40.0
+offset_right = 50.0
+offset_bottom = -10.0
+grow_horizontal = 2
+grow_vertical = 0
+text = "Opponent Slots"
+horizontal_alignment = 1
+
+[node name="OpponentSlots" parent="UI/GameUI/OpponentArea" instance=ExtResource("9_slot")]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -210.0
+offset_top = -220.0
+offset_right = 210.0
+offset_bottom = -40.0
+grow_horizontal = 2
+grow_vertical = 0
+is_player_slots = false
+
+[node name="Battlefield" type="ColorRect" parent="UI/GameUI"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -400.0
+offset_top = -100.0
+offset_right = 400.0
+offset_bottom = 100.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.25, 0.25, 0.2, 0.5)
+
+[node name="BattlefieldLabel" type="Label" parent="UI/GameUI/Battlefield"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -50.0
+offset_top = -15.0
+offset_right = 50.0
+offset_bottom = 15.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "BATTLEFIELD"
+horizontal_alignment = 1
+
+[node name="PlayerArea" type="ColorRect" parent="UI/GameUI"]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -250.0
+grow_horizontal = 2
+grow_vertical = 0
+color = Color(0.2, 0.3, 0.2, 0.5)
+
+[node name="PlayerHealthLabel" type="Label" parent="UI/GameUI/PlayerArea"]
+unique_name_in_owner = true
+layout_mode = 1
+offset_left = 20.0
+offset_top = 10.0
+offset_right = 200.0
+offset_bottom = 40.0
+theme_override_font_sizes/font_size = 18
+text = "Health: 10"
+
+[node name="PlayerManaLabel" type="Label" parent="UI/GameUI/PlayerArea"]
+unique_name_in_owner = true
+layout_mode = 1
+offset_left = 20.0
+offset_top = 40.0
+offset_right = 200.0
+offset_bottom = 70.0
+theme_override_font_sizes/font_size = 18
+text = "Mana: 1/1"
+
+[node name="EndTurnButton" type="Button" parent="UI/GameUI/PlayerArea"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -180.0
+offset_top = 20.0
+offset_right = -20.0
+offset_bottom = 70.0
+
+[node name="PlayerSlots" parent="UI/GameUI/PlayerArea" instance=ExtResource("9_slot")]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -210.0
+offset_top = 50.0
+offset_right = 210.0
+offset_bottom = 230.0
+grow_horizontal = 2
+
+[node name="PlayerHand" parent="UI/GameUI" instance=ExtResource("8_hand")]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -200.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="OpponentHand" parent="UI/GameUI" instance=ExtResource("8_hand")]
+unique_name_in_owner = true
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+is_player_hand = false
+grow_horizontal = 0
+theme_override_font_sizes/font_size = 20
+text = "End Turn"
+
+[node name="PlayerSlotsLabel" type="Label" parent="UI/GameUI/PlayerArea"]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -50.0
+offset_top = 10.0
+offset_right = 50.0
+offset_bottom = 40.0
+grow_horizontal = 2
+text = "Your Slots"
+horizontal_alignment = 1
+
+[node name="CombatLog" type="RichTextLabel" parent="UI/GameUI"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = 20.0
+offset_top = -150.0
+offset_right = 320.0
+offset_bottom = 150.0
+grow_vertical = 2
+bbcode_enabled = true
+text = "[center][b]Combat Log[/b][/center]"
+scroll_following = true
+
+[node name="VictoryScreen" parent="UI" instance=ExtResource("10_victory")]
+
+[node name="DefeatScreen" parent="UI" instance=ExtResource("11_defeat")]
+
+[node name="LevelProgressionScreen" parent="UI" instance=ExtResource("12_progression")]
+
+[node name="CombatVisualizer" type="Node" parent="UI"]
+script = ExtResource("13_visualizer")
+DamageNumberScene = ExtResource("14_damage")
