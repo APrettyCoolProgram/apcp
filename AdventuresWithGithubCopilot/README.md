@@ -2,7 +2,7 @@
 
   ![Logo](https://github.com/APrettyCoolProgram/APCP/blob/main/.github/awgc/AdventuresWithGithubCopilot.png)
 
-  #### ⇧ That's *supposed* to say **Adventures with GitHub Copilot** ⇧
+  ## ⇧ That's *supposed* to say **Adventures with GitHub Copilot** ⇧
 
 </div>
 
