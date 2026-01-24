@@ -1,4 +1,10 @@
-# January 24, 2026
+<div align="center">
+
+  ![Logo](https://github.com/APrettyCoolProgram/APCP/blob/main/.github/awgc/AdventuresWithGithubCopilot.png)
+
+  # January 24, 2026
+
+</div>
 
 Adventures:
 
