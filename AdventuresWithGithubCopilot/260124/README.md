@@ -64,9 +64,10 @@ Claude was having issues getting the hands of cards to show, and the UI was a li
 - [Chat documentation](./Dungine/DungineCopilot-0.0.0.1.md)
 - [Project files](./Dungine/)
 
-> This used x.0% of premium requests (13.3% -> x)
+> This used 2.0% of premium requests (13.3% -> 15.3)
 
 I used Claude Sonnet 4.5 for the heavy lifting, and GPT-5 mini for documentation an minor updates/refactors.
 
 Claude used the initial prompt, and created exactly what was asked for the first time.
 
+As of v0.0.0.2, this has been moved to [here](https://github.com/CalistadalaneGames/Dungine) for further development.
