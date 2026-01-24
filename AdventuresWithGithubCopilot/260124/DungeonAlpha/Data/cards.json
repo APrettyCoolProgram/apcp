@@ -1,0 +1,6 @@
+[
+  { "id": "c_sword", "name": "Iron Sword", "type": "Offensive", "cost": 1, "attack": 2, "defense": 0 },
+  { "id": "c_shield", "name": "Leather Shield", "type": "Defensive", "cost": 1, "attack": 0, "defense": 2 },
+  { "id": "c_fire", "name": "Fireball", "type": "Spell", "cost": 2, "attack": 3, "defense": 0 },
+  { "id": "c_potion", "name": "Minor Potion", "type": "Item", "cost": 1, "attack": 0, "defense": 1 }
+]

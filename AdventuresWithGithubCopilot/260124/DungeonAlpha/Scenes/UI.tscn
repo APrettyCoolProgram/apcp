@@ -1,0 +1,97 @@
+[gd_scene load_steps=1 format=3]
+
+[ext_resource path="res://Scripts/GDScript/ui_controller.gd" type="Script" id=1]
+
+[node name="UI" type="CanvasLayer"]
+script = ExtResource( 1 )
+
+[node name="UIRoot" type="Control" parent="UI"]
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+rect_min_size = Vector2( 800, 600 )
+
+[node name="HandContainer" type="HBoxContainer" parent="UIRoot"]
+anchor_left = 0.0
+anchor_top = 1.0
+anchor_right = 0.0
+anchor_bottom = 1.0
+margin_left = 12.0
+margin_top = -180.0
+rect_min_size = Vector2( 600, 120 )
+
+[node name="PlayerManaLabel" type="Label" parent="UIRoot"]
+text = "Player Mana: 0"
+anchor_left = 0.0
+anchor_top = 1.0
+anchor_right = 0.0
+anchor_bottom = 1.0
+margin_left = 12.0
+margin_top = -220.0
+
+[node name="OpponentManaLabel" type="Label" parent="UIRoot"]
+text = "Opponent Mana: 0"
+anchor_left = 0.0
+anchor_top = 1.0
+anchor_right = 0.0
+anchor_bottom = 1.0
+margin_left = 12.0
+margin_top = -200.0
+
+[node name="PlayerHealthLabel" type="Label" parent="UIRoot"]
+text = "Player Health: 10"
+anchor_left = 0.0
+anchor_top = 1.0
+anchor_right = 0.0
+anchor_bottom = 1.0
+margin_left = 220.0
+margin_top = -220.0
+
+[node name="OpponentHealthLabel" type="Label" parent="UIRoot"]
+text = "Opponent Health: 10"
+anchor_left = 0.0
+anchor_top = 1.0
+anchor_right = 0.0
+anchor_bottom = 1.0
+margin_left = 220.0
+margin_top = -200.0
+
+[node name="EndGameDialog" type="WindowDialog" parent="UIRoot"]
+rect_min_size = Vector2( 300, 140 )
+
+[node name="EndGameLabel" type="Label" parent="EndGameDialog"]
+text = ""
+rect_position = Vector2( 12, 12 )
+
+[node name="EndGameClose" type="Button" parent="EndGameDialog"]
+text = "OK"
+rect_position = Vector2( 220, 100 )
+
+[node name="SlotsContainer" type="HBoxContainer" parent="UIRoot"]
+anchor_left = 0.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+margin_left = 12.0
+margin_top = -60.0
+rect_min_size = Vector2( 600, 120 )
+
+[node name="Slot0" type="Button" parent="SlotsContainer"]
+text = "Slot 0"
+
+[node name="Slot1" type="Button" parent="SlotsContainer"]
+text = "Slot 1"
+
+[node name="Slot2" type="Button" parent="SlotsContainer"]
+text = "Slot 2"
+
+[node name="EndTurn" type="Button" parent="UIRoot"]
+anchor_left = 1.0
+anchor_top = 0.0
+anchor_right = 1.0
+anchor_bottom = 0.0
+margin_left = -120.0
+margin_top = 12.0
+rect_min_size = Vector2( 100, 32 )
+text = "End Turn"
