@@ -8,9 +8,9 @@
 
 Adventures:
 
-- [Dungeon: Alpha](#dungeon-alpha)
-- [Dungeon: Beta](#dungeon-beta)
-- [Dungeon: Charlie](#dungeon-charlie)
+- [Dungeon: Alpha](#dungeonAlpha)
+- [Dungeon: Beta](#dungeonBeta)
+- [Dungeon: Charlie](#dungeonCharlie)
 - [Dungine]()
 
 ## Dungeon: Alpha

@@ -10,11 +10,10 @@ config_version=5
 
 [application]
 
-config/name="Dungeon-Beta"
-run/main_scene="res://Scenes/Main.tscn"
-config/features=PackedStringArray("4.5", "C#", "Forward Plus")
+config/name="Dungine"
+config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
 
-project/assembly_name="Dungeon-Beta"
+project/assembly_name="Dungine"
