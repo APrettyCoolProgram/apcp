@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Logo](https://github.com/APrettyCoolProgram/APCP/blob/main/.github/awgc/AdventuresWithGithubCopilot.png)
+  ![Logo](https://github.com/APrettyCoolProgram/APCP/blob/main/.github/awgc/AdventuresWithGithubCopilot-864x344.png)
 
   # January 24, 2026
 
