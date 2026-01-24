@@ -1,14 +1,13 @@
 # January 24, 2026
 
-Attempts at:
+- [Dungeon: Alpha](#dungeon-alpha)
+- [Dungeon: Beta](#dungeon-beta)
+- [Dungeon: Charlie](#dungeon-charlie)
+- [Dungine]()
 
-- Dungeon: Alpha
-- Dungeon: Beta
-- Dungeon: Charlie
+## Project setup
 
-## Setup
-
-1. Created a new empty Godot project named "Dungeon-%Name%"
+1. Created a new empty Godot project
 2. Opened the project folder in Visual Studio Code
 3. Confirmed connection to Godot
 
