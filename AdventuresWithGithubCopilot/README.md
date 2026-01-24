@@ -10,9 +10,9 @@
 
 ***
 
-## Project setup
+### Project setup
 
-### Godot projects
+#### Godot projects
 
 1. Created a new empty Godot project
 2. Opened the project folder in Visual Studio Code
