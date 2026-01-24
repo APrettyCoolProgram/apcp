@@ -1,6 +1,6 @@
 <div align="center">
 
-https://github.com/APrettyCoolProgram/APCP/blob/main/.github/awgc/AdventuresWithGithubCopilot.gif
+![Logo](https://github.com/APrettyCoolProgram/APCP/blob/main/.github/awgc/AdventuresWithGithubCopilot.gif)
 
 </div>
 
