@@ -1,15 +1,11 @@
 # January 24, 2026
 
+Adventures:
+
 - [Dungeon: Alpha](#dungeon-alpha)
 - [Dungeon: Beta](#dungeon-beta)
 - [Dungeon: Charlie](#dungeon-charlie)
 - [Dungine]()
-
-## Project setup
-
-1. Created a new empty Godot project
-2. Opened the project folder in Visual Studio Code
-3. Confirmed connection to Godot
 
 ## Dungeon: Alpha
 
