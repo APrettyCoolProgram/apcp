@@ -6,7 +6,7 @@
 
 </div>
 
-## [January 24, 2026](./260124/README.md)
+### [January 24, 2026](./260124/README.md)
 
 <!-- This should go somwhere
 
