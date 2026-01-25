@@ -11,7 +11,7 @@ Adventures:
 - [Dungeon: Alpha](#dungeonAlpha)
 - [Dungeon: Beta](#dungeonBeta)
 - [Dungeon: Charlie](#dungeonCharlie)
-- [Dungine]()
+- [Dungine](#dungine)
 
 ## Dungeon: Alpha
 

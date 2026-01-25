@@ -1,25 +1,10 @@
-<div align="center">
+# Copilot prompt 01
 
-  ![Logo](https://github.com/APrettyCoolProgram/APCP/blob/main/.github/awgc/AdventuresWithGithubCopilot-1728x688.png)
+This prompt was used for:
 
-  # ⇧ That's *supposed* to say **Adventures with GitHub Copilot** ⇧
+- DungineStudio
 
-</div>
-
-### [January 25, 2026](./260125/README.md)
-### [January 24, 2026](./260124/README.md)
-
-<!-- This should go somwhere
-
-### Project setup
-
-#### Godot projects
-
-1. Created a new empty Godot project
-2. Opened the project folder in Visual Studio Code
-3. Confirmed connection to Godot
-
-
+```text
 I've started to write a game engine called "Dungine" that will play various types of games. Currently the only type of game is text-based adventure games.
 
 I would like the DungineStudio project to be an application where I can design/develop games that can be played in the Dungine game engine.
@@ -31,3 +16,4 @@ Please use that as an example, and create a modern user interface that will allo
 - Create text-based games
 - Load an existing "cartridge" by choosing a "cartridge folder" that contains game data
 - Detailed controls allowing the creation of locations, items, descriptions, and anything else needed for the game
+```
