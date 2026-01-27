@@ -46,7 +46,7 @@ public static int MethodOne()
 
 ## if...else and if...else if...else
 
-For methods that contains a block, `return` statments can appear inside the block
+For methods that do something very specific, and contain a very simple a block, `return` statments can appear inside the block:
 
 ```csharp
 public static int MethodOne(bool doWork)
