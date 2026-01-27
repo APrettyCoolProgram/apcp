@@ -25,16 +25,16 @@
 # Variables
 
 - Variables are declared in their own block at the top of a method.
-- Implicit variables are declared before explicit variables.
+- Explicit variables are declared before implicit variables.
 - A blank line follows variable declarations.
 - Return statements are separated by a blank line.
 
 ```csharp
 public static int MethodOne()
 {
-    var numberOne   = 1;
-    var numberTwo   = 2;
-    int numberThree = 3;
+    int numberOne   = 1;
+    int numberTwo   = 2;
+    var numberThree = 3;
 
     var total = numberOne + numberTwo + numberThree;
 
@@ -45,6 +45,24 @@ public static int MethodOne()
 # Code blocks
 
 ## if...else and if...else if...else
+
+For methods that contains a block, `return` statments can appear inside the block
+
+```csharp
+public static int MethodOne(bool doWork)
+{
+    if (doWork)
+    {
+        return = "Work done."
+    }
+    else
+    {
+        return = "Work not done."
+    }
+}
+```
+
+For anything beyond very simple blocks:
 
 - `return` statements appear at the end of the method, not in the `if...if else...else` block.
 - `return` statements are preceded by a blank line.
