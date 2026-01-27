@@ -15,7 +15,7 @@
 ## Documentation
 
 - [Markdown](./Documentation/MarkdownSyntax.md)
-- [Mermaid](./Documentation/MermaidSyntax.mdd)
+- [Mermaid](./Documentation/MermaidSyntax.md)
 
 
 
