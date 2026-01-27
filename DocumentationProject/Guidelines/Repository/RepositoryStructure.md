@@ -33,3 +33,21 @@
 ├── LICENSE
 ├── README.me
 ```
+
+### .github/CoPilot/*
+
+This is for any GitHub Copilot data.
+
+`GeneratedContent/` is specifically for documentation that can be distilled into the repository documentation.
+
+### .github/Development/*
+
+Any documentation/data specific to development goes here. Sometimes that's temporary resources or code snippets.
+
+### .github/Images/*
+
+Logos, screenshots, documentation images all go here.
+
+### .github/Workspaces/*
+
+Visual Studio Code workspaces go here.
